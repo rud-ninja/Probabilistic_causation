@@ -1,0 +1,678 @@
+,DATE,NAME,RATING,FROM,FT_RATING,TO,TT_RATING,FEE,POSITION,HEIGHT,FOOT,AGE,NATION
+0,19-Jul-22,Ben Davies,7.07,Liverpool,6.96,Rangers,6.8,4.7,Defence,181,Left,26,England
+1,01-Feb-21,Ben Davies,6.69,Preston North End,6.77,Liverpool,6.96,1.85,Defence,181,Left,25,England
+2,13-Jul-22,Raheem Sterling,7.42,Manchester City,7.08,Chelsea,6.89,56.2,Attack,170,Right,27,England
+3,12-Jul-22,Nathan Collins,7.11,Burnley,6.7,Wolverhampton Wanderers,6.74,25.94,Defence,193,Right,21,Ireland
+4,24-Jun-21,Nathan Collins,6.8,Stoke City,6.7,Burnley,6.7,14.65,Defence,193,Right,20,Ireland
+5,12-Jul-22,Keane Lewis-Potter,7.08,Hull City,6.64,Brentford,6.65,20.28,Attack,180,Right,21,England
+6,11-Jul-22,Neco Williams,6.76,Liverpool,6.96,Nottingham Forest,6.53,20.0,Defence,176,Right,21,Wales
+7,09-Jul-22,Joe Aribo,7.51,Rangers,6.8,Southampton,6.66,7.58,Attack,182,Left,25,Nigeria
+8,07-Jul-22,Flynn Downes,6.95,Swansea City,6.59,West Ham United,6.75,11.37,Midfield,173,Right,23,England
+9,07-Jul-22,Luis Sinisterra,8.02,Feyenoord Rotterdam,6.79,Leeds United,6.65,25.0,Attack,172,Right,23,Colombia
+10,06-Jul-22,Charlie Mcarthur,6.66,Kilmarnock,6.46,Newcastle United,6.67,0.41,Defence,188,Right,17,Scotland
+11,05-Jul-22,Tyrell Malacia,7.51,Feyenoord Rotterdam,6.79,Manchester United,6.82,15.0,Defence,175,Left,22,Netherlands
+12,04-Jul-22,Gabriel Jesus,7.45,Manchester City,7.08,Arsenal,6.76,52.2,Attack,175,Both,25,Brazil
+13,04-Jul-22,João Palhinha,7.33,Sporting CP,6.79,Fulham,6.59,21.35,Midfield,190,Right,27,Portugal
+14,04-Jul-22,Kalvin Phillips,7.04,Leeds United,6.65,Manchester City,7.08,48.75,Defence,178,Right,26,England
+15,01-Jul-22,Darwin Núñez,7.86,Benfica,6.8,Liverpool,6.96,75.0,Attack,187,Right,23,Uruguay
+16,01-Jul-22,Brenden Aaronson,7.22,FC Salzburg,0.0,Leeds United,6.65,32.84,Midfield,178,Right,21,United States
+17,01-Jul-22,Simon Adingra,6.99,FC Nordsjaelland,0.0,Brighton & Hove Albion,6.66,8.54,Midfield,175,Right,20,Ivory Coast
+18,01-Jul-22,Rasmus Kristensen,7.9,FC Salzburg,0.0,Leeds United,6.65,13.0,Defence,186,Right,25,Denmark
+19,01-Jul-22,Calvin Ramsay,7.03,Aberdeen,6.73,Liverpool,6.96,4.9,Defence,182,Right,18,Scotland
+20,01-Jul-22,Matt Targett,7.0,Aston Villa,6.71,Newcastle United,6.67,17.5,Defence,183,Left,26,England
+21,01-Jul-19,Matt Targett,6.85,Southampton,6.66,Aston Villa,6.71,15.9,Defence,183,Left,23,England
+22,01-Jul-22,Matt Turner,5.96,New England Revolution,6.7,Arsenal,6.76,6.8,Goalkeeper,191,Right,28,United States
+23,23-Jun-22,Nick Pope,6.86,Burnley,6.7,Newcastle United,6.67,12.28,Goalkeeper,190,Right,30,England
+24,17-Jun-22,Gavin Bazunu,6.78,Manchester City,7.08,Southampton,6.66,14.0,Goalkeeper,189,Right,20,Ireland
+25,17-Jun-22,Yves Bissouma,7.32,Brighton & Hove Albion,6.66,Tottenham Hotspur,6.86,29.2,Midfield,181,Right,25,Mali
+26,17-Jul-18,Yves Bissouma,6.92,Lille,6.73,Brighton & Hove Albion,6.66,17.09,Midfield,181,Right,21,Mali
+27,31-Jan-22,Dan Burn,7.02,Brighton & Hove Albion,6.66,Newcastle United,6.67,15.0,Defence,201,Left,30,England
+28,09-Aug-18,Dan Burn,6.68,Wigan Athletic,6.58,Brighton & Hove Albion,6.66,3.55,Defence,201,Left,26,England
+29,31-Jan-22,Luke Plange,6.22,Derby County,6.63,Crystal Palace,6.72,1.26,Attack,178,Left,19,England
+30,31-Jan-22,Auston Trusty,6.77,Colorado Rapids,6.58,Arsenal,6.76,1.95,Defence,188,Right,23,United States
+31,31-Jan-22,Julián Álvarez,7.73,River Plate,6.79,Manchester City,7.08,17.0,Attack,170,Right,22,Argentina
+32,30-Jan-22,Luis Díaz,8.16,FC Porto,6.88,Liverpool,6.96,47.0,Attack,180,Right,25,Colombia
+33,13-Jan-22,Lucas Digne,7.02,Everton,6.69,Aston Villa,6.71,32.02,Defence,175,Left,28,France
+34,01-Aug-18,Lucas Digne,7.08,Barcelona,6.94,Everton,6.69,20.34,Defence,175,Left,24,France
+35,13-Jan-22,Chris Wood,6.57,Burnley,6.7,Newcastle United,6.67,30.0,Attack,191,Right,30,New Zealand
+36,05-Jan-22,Hayao Kawabe,6.94,Grasshoppers,0.0,Wolverhampton Wanderers,6.74,0.6,Midfield,178,Right,26,Japan
+37,05-Jan-22,Kacper Kozlowski,6.46,Pogon Szczecin,0.0,Brighton & Hove Albion,6.66,11.74,Midfield,180,Both,18,Poland
+38,04-Jan-22,Nathan Patterson,6.9,Rangers,6.8,Everton,6.69,14.94,Defence,183,Right,20,Scotland
+39,31-Aug-21,Daniel James,6.75,Manchester United,6.82,Leeds United,6.65,29.1,Attack,170,Left,23,Wales
+40,12-Jun-19,Daniel James,7.03,Swansea City,6.59,Manchester United,6.82,17.8,Attack,170,Left,21,Wales
+41,31-Aug-21,Xande Silva,6.59,West Ham United,6.75,Nottingham Forest,6.53,0.25,Attack,177,Right,24,Portugal
+42,31-Aug-21,Odsonne Édouard,7.26,Celtic,6.93,Crystal Palace,6.72,17.06,Attack,187,Right,23,France
+43,28-Aug-21,Will Hughes,7.0,Watford,6.62,Crystal Palace,6.72,7.0,Midfield,185,Left,26,England
+44,28-Aug-21,Kurt Zouma,7.06,Chelsea,6.89,West Ham United,6.75,36.63,Defence,190,Right,26,France
+45,27-Aug-21,Moussa Sissoko,6.96,Tottenham Hotspur,6.86,Watford,6.62,3.5,Midfield,187,Right,31,France
+46,20-Aug-21,Aaron Ramsdale,6.4,Sheffield United,6.59,Arsenal,6.76,29.31,Goalkeeper,188,Right,23,England
+47,19-Aug-20,Aaron Ramsdale,6.49,AFC Bournemouth,6.64,Sheffield United,6.59,20.75,Goalkeeper,188,Right,22,England
+48,13-Aug-21,Jannik Vestergaard,6.87,Southampton,6.66,Leicester City,6.78,18.42,Defence,199,Left,28,Denmark
+49,13-Jul-18,Jannik Vestergaard,6.84,Borussia Monchengladbach,6.75,Southampton,6.66,25.43,Defence,199,Left,25,Denmark
+50,13-Aug-21,Joe Willock,6.88,Arsenal,6.76,Newcastle United,6.67,30.77,Midfield,186,Right,21,England
+51,10-Aug-21,Adam Armstrong,7.29,Blackpool,6.55,Southampton,6.66,18.53,Attack,173,Right,24,England
+52,06-Aug-18,Adam Armstrong,6.08,Newcastle United,6.67,Blackburn Rovers,6.78,1.9,Attack,173,Right,21,England
+53,10-Aug-21,Kaoru Mitoma,7.62,Kawasaki Frontale,0.0,Brighton & Hove Albion,6.66,3.14,Attack,178,Right,24,Japan
+54,05-Aug-21,Jack Grealish,7.67,Aston Villa,6.71,Manchester City,7.08,116.3,Attack,175,Right,25,England
+55,04-Aug-21,Danny Ings,6.9,Southampton,6.66,Aston Villa,6.71,30.8,Attack,178,Right,28,England
+56,01-Jul-19,Danny Ings,6.82,Liverpool,6.96,Southampton,6.66,25.1,Attack,178,Right,26,England
+57,31-Jul-21,Kristoffer Klaesson,5.97,Valerenga,0.0,Leeds United,6.65,2.09,Goalkeeper,189,Left,20,Norway
+58,30-Jul-21,Ben White,6.59,Brighton & Hove Albion,6.66,Arsenal,6.76,58.5,Defence,182,Right,23,England
+59,24-Jul-21,Harry Wilson,6.99,Liverpool,6.96,Fulham,6.59,14.0,Attack,173,Left,24,Wales
+60,22-Jul-21,Lewis Bate,5.9,Chelsea,6.89,Leeds United,6.65,1.84,Midfield,168,Left,18,England
+61,21-Jul-21,Kristoffer Ajer,7.18,Celtic,6.93,Brentford,6.65,16.43,Defence,196,Right,23,Norway
+62,20-Jul-21,Frank Onyeka,7.09,FC Midtjylland,0.0,Brentford,6.65,10.47,Midfield,183,Right,23,Nigeria
+63,19-Jul-21,Albert Sambi Lokonga,7.34,Anderlecht,6.76,Arsenal,6.76,18.32,Midfield,183,Right,21,Belgium
+64,18-Jul-21,Marc Guehi,6.93,Chelsea,6.89,Crystal Palace,6.72,24.42,Defence,182,Right,21,England
+65,16-Jul-21,Kjell Scherpen,6.21,Ajax Amsterdam,6.88,Brighton & Hove Albion,6.66,5.23,Goalkeeper,204,Both,21,Netherlands
+66,10-Jul-21,Nuno Tavares,6.58,Benfica,6.8,Arsenal,6.76,8.37,Defence,181,Left,21,Portugal
+67,08-Jul-21,Michael Olise,7.26,Reading,6.68,Crystal Palace,6.72,9.73,Attack,180,Left,19,France
+68,06-Jul-21,Enock Mwepu,7.07,FC Salzburg,0.0,Brighton & Hove Albion,6.66,23.0,Midfield,184,Right,23,Zambia
+69,02-Jul-21,Jack Harrison,7.0,Manchester City,7.08,Leeds United,6.65,12.8,Attack,175,Left,24,England
+70,30-Jan-18,Jack Harrison,6.95,New York City FC,6.77,Manchester City,7.08,4.0,Attack,175,Left,21,England
+71,01-Jul-21,Patson Daka,7.95,FC Salzburg,0.0,Leicester City,6.78,30.0,Attack,185,Right,22,Zambia
+72,01-Jul-21,Craig Dawson,6.72,Watford,6.62,West Ham United,6.75,2.3,Defence,188,Right,31,England
+73,01-Jul-19,Craig Dawson,6.87,West Bromwich Albion,6.57,Watford,6.62,6.15,Defence,188,Right,29,England
+74,01-Jul-21,Yerson Mosquera,7.02,Atlético Nacional,0.0,Wolverhampton Wanderers,6.74,5.2,Defence,188,Right,20,Colombia
+75,10-Jun-21,Emiliano Buendía,7.9,Norwich City,6.47,Aston Villa,6.71,40.19,Attack,172,Right,24,Argentina
+76,08-Jun-18,Emiliano Buendía,7.47,Getafe,6.6,Norwich City,6.47,1.53,Attack,172,Right,21,Argentina
+77,29-Jan-21,Saïd Benrahma,6.2,Brentford,6.65,West Ham United,6.75,24.18,Attack,172,Right,25,Algeria
+78,08-Jan-21,Sébastien Haller,6.52,West Ham United,6.75,Ajax Amsterdam,6.88,23.55,Attack,190,Right,27,Ivory Coast
+79,06-Jul-22,Sébastien Haller,7.77,Ajax Amsterdam,6.88,Borussia Dortmund,6.88,31.0,Attack,190,Right,28,Ivory Coast
+80,17-Jul-19,Sébastien Haller,7.26,Eintracht Frankfurt,6.73,West Ham United,6.75,51.29,Attack,190,Right,25,Ivory Coast
+81,16-Oct-20,Jack Butland,5.92,Stoke City,6.7,Crystal Palace,6.72,1.11,Goalkeeper,196,Right,27,England
+82,16-Oct-20,Terence Kongolo,6.24,Huddersfield Town,6.54,Fulham,6.59,4.45,Defence,188,Left,26,Netherlands
+83,08-Jun-18,Terence Kongolo,6.78,AS Monaco,6.75,Huddersfield Town,6.54,20.0,Defence,188,Left,24,Netherlands
+84,16-Oct-20,Joe Rodon,6.74,Swansea City,6.59,Tottenham Hotspur,6.86,12.25,Defence,193,Right,22,Wales
+85,05-Oct-20,Tosin Adarabioyo,6.8,Manchester City,7.08,Fulham,6.59,1.65,Defence,196,Right,22,England
+86,05-Oct-20,Ben Godfrey,6.06,Norwich City,6.47,Everton,6.69,27.5,Defence,183,Right,22,England
+87,05-Oct-20,Alex Telles,7.81,FC Porto,6.88,Manchester United,6.82,15.0,Defence,179,Left,27,Brazil
+88,02-Oct-20,Vladimír Coufal,7.09,Slavia Prague,0.0,West Ham United,6.75,6.07,Defence,179,Right,27,Czech Republic
+89,01-Oct-20,Andi Zeqiri,6.44,Lausanne Sports,0.0,Brighton & Hove Albion,6.66,4.0,Attack,181,Left,21,Switzerland
+90,29-Sep-20,Rúben Dias,7.25,Benfica,6.8,Manchester City,7.08,68.0,Defence,188,Right,23,Portugal
+91,19-Sep-20,Diogo Jota,7.09,Wolverhampton Wanderers,6.74,Liverpool,6.96,45.24,Attack,178,Both,23,Portugal
+92,30-Jan-18,Diogo Jota,7.24,Atletico Madrid,6.83,Wolverhampton Wanderers,6.74,14.0,Attack,178,Both,21,Portugal
+93,19-Sep-20,Ki-Jana Hoever,6.47,Liverpool,6.96,Wolverhampton Wanderers,6.74,9.92,Defence,182,Right,18,Netherlands
+94,16-Sep-20,Emiliano Martínez,6.82,Arsenal,6.76,Aston Villa,6.71,17.4,Goalkeeper,195,Right,27,Argentina
+95,07-Sep-20,Callum Wilson,6.2,AFC Bournemouth,6.64,Newcastle United,6.67,22.25,Attack,180,Right,28,England
+96,05-Sep-20,Fábio Silva,5.93,FC Porto,6.88,Wolverhampton Wanderers,6.74,40.0,Attack,185,Right,17,Brazil
+97,02-Sep-20,Donny van de Beek,7.52,Ajax Amsterdam,6.88,Manchester United,6.82,39.0,Midfield,183,Right,23,Netherlands
+98,30-Aug-20,Matt Doherty,6.99,Wolverhampton Wanderers,6.74,Tottenham Hotspur,6.86,16.8,Defence,183,Right,28,Ireland
+99,30-Aug-20,Harrison Reed,6.75,Southampton,6.66,Fulham,6.59,6.58,Midfield,176,Right,25,England
+100,28-Aug-20,Eberechi Eze,7.28,Queens Park Rangers,6.62,Crystal Palace,6.72,18.02,Midfield,173,Right,22,England
+101,26-Aug-20,Ben Chilwell,6.92,Leicester City,6.78,Chelsea,6.89,50.81,Defence,178,Left,23,England
+102,20-Aug-20,Antonee Robinson,6.87,Wigan Athletic,6.58,Fulham,6.59,2.13,Defence,183,Left,22,United States
+103,15-Jul-19,Antonee Robinson,6.61,Everton,6.69,Wigan Athletic,6.58,2.26,Defence,183,Left,21,United States
+104,11-Aug-20,Kyle Walker-Peters,6.82,Tottenham Hotspur,6.86,Southampton,6.66,13.46,Defence,173,Right,23,England
+105,05-Aug-20,Nathan Aké,6.51,AFC Bournemouth,6.64,Manchester City,7.08,45.3,Defence,180,Left,25,Netherlands
+106,29-Jul-20,Issa Kabore,7.27,KV Mechelen,6.48,Manchester City,7.08,4.5,Defence,180,Right,19,Burkina Faso
+107,29-Jul-20,Joël Veltman,7.36,Ajax Amsterdam,6.88,Brighton & Hove Albion,6.66,1.01,Defence,183,Right,28,Netherlands
+108,08-Jul-20,Anthony Knockaert,6.83,Brighton & Hove Albion,6.66,Fulham,6.59,11.7,Attack,172,Left,28,France
+109,07-Jul-20,Hélder Costa,6.58,Wolverhampton Wanderers,6.74,Leeds United,6.65,17.7,Attack,178,Left,26,Angola
+110,01-Jul-20,Hakim Ziyech,8.01,Ajax Amsterdam,6.88,Chelsea,6.89,44.0,Attack,181,Left,27,Morocco
+111,01-Jul-20,Pablo Marí,6.54,Flamengo,6.8,Arsenal,6.76,6.0,Defence,193,Left,26,Spain
+112,13-Aug-20,Luis Binks,6.27,CF Montréal,6.56,Bologna,6.61,0.1,Defence,188,Left,18,England
+113,31-Jan-20,Jarrod Bowen,6.91,Hull City,6.64,West Ham United,6.75,21.56,Attack,174,Left,23,England
+114,31-Jan-20,Tariq Lamptey,6.68,Chelsea,6.89,Brighton & Hove Albion,6.66,1.21,Defence,163,Right,19,Ghana
+115,31-Jan-20,Luke Matheson,6.25,Rochdale,6.44,Wolverhampton Wanderers,6.74,1.11,Defence,170,Right,17,England
+116,31-Jan-20,Clinton Mola,6.44,Chelsea,6.89,VfB Stuttgart,6.65,0.4,Defence,183,Left,19,England
+117,30-Jan-20,Gaëtan Bong,6.0,Brighton & Hove Albion,6.66,Nottingham Forest,6.53,0.51,Defence,183,Left,32,Cameroon
+118,30-Jan-20,Bruno Fernandes,8.03,Sporting CP,6.79,Manchester United,6.82,63.0,Midfield,179,Right,25,Portugal
+119,30-Jan-20,Daniel Podence,6.75,Olympiakos,0.0,Wolverhampton Wanderers,6.74,19.84,Attack,165,Right,24,Portugal
+120,15-Jan-20,Darren Randolph,5.86,Middlesbrough,6.59,West Ham United,6.75,4.76,Goalkeeper,191,Right,33,Ireland
+121,13-Jan-20,Jarrad Branthwaite,6.3,Carlisle United,6.68,Everton,6.69,1.11,Defence,195,Right,18,England
+122,07-Jan-20,Ivan Cavaleiro,6.66,Wolverhampton Wanderers,6.74,Fulham,6.59,11.8,Attack,175,Right,26,Angola
+123,01-Jan-20,Michael Hector,6.95,Chelsea,6.89,Fulham,6.59,5.97,Defence,193,Right,27,Jamaica
+124,01-Jan-20,Takumi Minamino,6.12,FC Salzburg,0.0,Liverpool,6.96,8.5,Attack,174,Right,25,Japan
+125,01-Jul-22,Takumi Minamino,6.96,Liverpool,6.96,AS Monaco,6.75,16.01,Attack,174,Right,27,Japan
+126,08-Aug-19,Alex Iwobi,6.56,Arsenal,6.76,Everton,6.69,31.18,Attack,180,Both,23,Nigeria
+127,08-Aug-19,Ryan Sessegnon,6.33,Fulham,6.59,Tottenham Hotspur,6.86,27.0,Midfield,178,Left,19,England
+128,08-Aug-19,Kieran Tierney,6.5,Celtic,6.93,Arsenal,6.76,27.7,Defence,178,Left,22,Scotland
+129,07-Aug-19,Carl Jenkinson,6.14,Arsenal,6.76,Nottingham Forest,6.53,2.2,Defence,185,Right,27,England
+130,06-Aug-19,Gonçalo Cardoso,6.35,Boavista,6.87,West Ham United,6.75,3.0,Defence,189,Left,18,Portugal
+131,05-Aug-19,Harry Maguire,7.09,Leicester City,6.78,Manchester United,6.82,87.0,Defence,194,Right,26,England
+132,05-Aug-19,Neal Maupay,7.03,Brentford,6.65,Brighton & Hove Albion,6.66,22.79,Attack,173,Right,22,France
+133,04-Aug-19,Takuma Asano,5.77,Arsenal,6.76,Partizan Belgrade,0.0,1.03,Attack,171,Right,24,Japan
+134,03-Aug-19,Adam Webster,7.28,Bristol City,6.67,Brighton & Hove Albion,6.66,22.22,Defence,185,Right,24,England
+135,01-Aug-19,Arnaut Danjuma,7.01,Club Brugge,0.0,AFC Bournemouth,6.64,16.88,Attack,178,Right,22,Netherlands
+136,01-Aug-19,Tom Heaton,6.34,Burnley,6.7,Aston Villa,6.71,9.03,Goalkeeper,188,Right,33,England
+137,01-Aug-19,Marvelous Nakamba,6.68,Club Brugge,0.0,Aston Villa,6.71,12.31,Midfield,178,Left,25,Zimbabwe
+138,28-Jul-19,Harvey Elliott,5.81,Fulham,6.59,Liverpool,6.96,1.74,Midfield,170,Left,16,England
+139,25-Jul-19,Jordan Ayew,6.03,Swansea City,6.59,Crystal Palace,6.72,2.87,Attack,182,Right,27,Ghana
+140,15-Jul-19,Fabian Delph,6.91,Manchester City,7.08,Everton,6.69,9.74,Defence,174,Left,29,England
+141,11-Jul-19,Ezri Konsa,6.68,Brentford,6.65,Aston Villa,6.71,13.64,Defence,183,Right,21,England
+142,08-Jul-19,Marko Arnautovic,6.86,West Ham United,6.75,Shanghai Port,0.0,25.0,Attack,193,Both,30,Austria
+143,04-Jul-19,Ayoze Pérez,6.67,Newcastle United,6.67,Leicester City,6.78,33.4,Attack,178,Right,25,Spain
+144,02-Jul-19,Gabriel Martinelli,7.5,Ituano FC,0.0,Arsenal,6.76,7.1,Attack,180,Right,18,Brazil
+145,01-Jul-19,Ché Adams,6.82,Birmingham City,6.65,Southampton,6.66,17.13,Attack,175,Right,23,Scotland
+146,01-Jul-19,Leander Dendoncker,7.03,Anderlecht,6.76,Wolverhampton Wanderers,6.74,13.8,Defence,188,Right,24,Belgium
+147,01-Jul-19,Moussa Djenepo,6.81,Standard Liege,6.56,Southampton,6.66,15.7,Attack,177,Right,21,Mali
+148,01-Jul-19,Kortney Hause,6.82,Wolverhampton Wanderers,6.74,Aston Villa,6.71,3.4,Defence,191,Left,24,England
+149,01-Jul-19,Raúl Jiménez,6.92,Benfica,6.8,Wolverhampton Wanderers,6.74,38.0,Attack,190,Right,28,Mexico
+150,29-Jun-19,Aaron Wan-Bissaka,7.25,Crystal Palace,6.72,Manchester United,6.82,55.0,Defence,183,Right,21,England
+151,28-Jun-19,James Justin,6.77,Luton Town,6.58,Leicester City,6.78,6.87,Defence,183,Right,21,England
+152,26-Jun-19,Leandro Trossard,7.3,Racing Genk,6.73,Brighton & Hove Albion,6.66,15.56,Attack,171,Right,24,Belgium
+153,18-May-19,Lloyd Kelly,6.74,Bristol City,6.67,AFC Bournemouth,6.64,15.18,Defence,190,Left,20,England
+154,31-Jan-19,Miguel Almirón,6.9,Atlanta United FC,6.64,Newcastle United,6.67,24.62,Attack,177,Left,25,Paraguay
+155,31-Jan-19,Ante Palaversa,6.12,Hajduk Split,0.0,Manchester City,7.08,6.46,Midfield,187,Right,19,Croatia
+156,22-Jan-19,Chris Mepham,6.24,Brentford,6.65,AFC Bournemouth,6.64,13.95,Defence,191,Right,21,Wales
+157,11-Jan-19,Manolo Gabbiadini,6.03,Southampton,6.66,Sampdoria,6.64,12.21,Attack,186,Left,27,Italy
+158,04-Jan-19,Dominic Solanke,6.22,Liverpool,6.96,AFC Bournemouth,6.64,21.75,Attack,187,Right,21,England
+159,09-Aug-18,Joe Bryan,7.33,Bristol City,6.67,Fulham,6.59,6.81,Defence,180,Left,24,England
+160,09-Aug-18,Federico Fernández,6.62,Swansea City,6.59,Newcastle United,6.67,6.7,Defence,190,Right,29,Argentina
+161,09-Aug-18,Lucas Pérez,6.89,Arsenal,6.76,West Ham United,6.75,4.4,Attack,181,Left,29,Spain
+162,01-Jul-19,Lucas Pérez,6.21,West Ham United,6.75,Alavés,6.56,2.3,Attack,181,Left,30,Spain
+163,08-Aug-18,Adama Traoré,7.87,Middlesbrough,6.59,Wolverhampton Wanderers,6.74,20.0,Attack,178,Right,22,Spain
+164,02-Aug-18,Alfie Mawson,6.67,Swansea City,6.59,Fulham,6.59,17.14,Defence,188,Right,24,England
+165,26-Jul-18,Fabian Schär,6.58,Deportivo La Coruña,6.61,Newcastle United,6.67,4.0,Defence,186,Right,26,Switzerland
+166,10-Jul-18,Riyad Mahrez,7.22,Leicester City,6.78,Manchester City,7.08,68.96,Attack,178,Left,27,Algeria
+167,06-Jul-18,Lewis Grabban,6.88,AFC Bournemouth,6.64,Nottingham Forest,6.53,6.8,Attack,183,Right,30,Jamaica
+168,03-Jul-18,Sam Johnstone,6.68,Manchester United,6.82,West Bromwich Albion,6.57,7.35,Goalkeeper,191,Right,25,England
+169,01-Jul-18,David Brooks,6.39,Sheffield United,6.59,AFC Bournemouth,6.64,11.3,Attack,173,Left,21,Wales
+170,26-Jun-18,Stuart Armstrong,6.65,Celtic,6.93,Southampton,6.66,8.09,Midfield,183,Right,26,Scotland
+171,21-Jun-18,James Maddison,7.75,Norwich City,6.47,Leicester City,6.78,25.0,Midfield,179,Right,21,England
+172,08-Jun-18,Diogo Dalot,6.8,FC Porto,6.88,Manchester United,6.82,22.0,Defence,183,Right,19,Portugal
+173,08-Jun-18,Jonny Evans,6.58,West Bromwich Albion,6.57,Leicester City,6.78,4.07,Defence,188,Right,30,Northern Ireland
+174,08-Jun-18,Ricardo Pereira,7.65,FC Porto,6.88,Leicester City,6.78,22.0,Defence,175,Right,24,Portugal
+175,23-Feb-18,José Fonte,6.69,West Ham United,6.75,Dalian Professional,0.0,5.66,Defence,187,Right,34,Portugal
+176,31-Jan-18,Olivier Giroud,6.57,Arsenal,6.76,Chelsea,6.89,17.29,Attack,193,Left,31,France
+177,17-Jul-21,Olivier Giroud,6.63,Chelsea,6.89,AC Milan,6.8,1.05,Attack,193,Left,34,France
+178,31-Jan-18,Joe Lolley,5.81,Huddersfield Town,6.54,Nottingham Forest,6.53,0.61,Attack,178,Right,25,England
+179,30-Jan-18,Dodi Lukebakio,6.1,Royal Charleroi SC,6.61,Watford,6.62,5.09,Attack,187,Left,20,Belgium
+180,01-Aug-19,Dodi Lukebakio,6.87,Watford,6.62,Hertha Berlin,6.65,20.0,Attack,187,Left,21,Belgium
+181,19-Jan-18,Jürgen Locadia,7.44,PSV Eindhoven,6.85,Brighton & Hove Albion,6.66,17.29,Attack,187,Right,24,Netherlands
+182,17-Jan-18,Theo Walcott,6.85,Arsenal,6.76,Everton,6.69,22.88,Attack,175,Right,29,England
+183,05-Jan-18,Ross Barkley,6.38,Everton,6.69,Chelsea,6.89,17.09,Midfield,187,Right,24,England
+184,01-Jan-18,Virgil van Dijk,7.22,Southampton,6.66,Liverpool,6.96,86.1,Defence,193,Both,27,Netherlands
+185,19-Jul-22,Takefusa Kubo,6.8,Real Madrid,6.94,Real Sociedad,6.69,6.94,Attack,167,Left,21,Japan
+186,01-Jul-22,Philippe Coutinho,7.09,Barcelona,6.94,Aston Villa,6.71,20.0,Midfield,171,Right,30,Brazil
+187,08-Jan-18,Philippe Coutinho,7.9,Liverpool,6.96,Barcelona,6.94,137.3,Midfield,171,Right,26,Brazil
+188,01-Jul-22,Diego Carlos,7.06,Sevilla,6.74,Aston Villa,6.71,31.0,Defence,186,Right,29,Brazil
+189,01-Jul-19,Diego Carlos,6.77,Nantes,6.68,Sevilla,6.74,15.0,Defence,186,Right,26,Brazil
+190,27-Jan-22,Daniel Wass,6.98,Valencia,6.69,Atletico Madrid,6.83,2.7,Midfield,178,Right,33,Denmark
+191,10-Jul-18,Daniel Wass,7.0,Celta Vigo,6.65,Valencia,6.69,6.0,Midfield,178,Right,29,Denmark
+192,14-Jan-22,Jesús Corona,6.58,FC Porto,6.88,Sevilla,6.74,3.0,Midfield,173,Right,29,Mexico
+193,07-Jan-22,Kieran Trippier,6.89,Atletico Madrid,6.83,Newcastle United,6.67,14.0,Defence,177,Right,31,England
+194,17-Jul-19,Kieran Trippier,7.09,Tottenham Hotspur,6.86,Atletico Madrid,6.83,22.57,Defence,177,Right,28,England
+195,31-Aug-21,Emerson Royal,7.09,Barcelona,6.94,Tottenham Hotspur,6.86,25.0,Defence,183,Right,22,Brazil
+196,31-Jan-19,Emerson Royal,6.68,Atlético-MG,6.69,Barcelona,6.94,12.0,Defence,183,Right,20,Brazil
+197,31-Aug-21,Marc Cucurella,6.73,Getafe,6.6,Brighton & Hove Albion,6.66,18.84,Defence,175,Left,22,Spain
+198,01-Jul-20,Marc Cucurella,6.74,Barcelona,6.94,Getafe,6.6,10.0,Defence,175,Left,21,Spain
+199,01-Jul-19,Marc Cucurella,6.5,Barcelona,6.94,Eibar,6.63,2.0,Defence,175,Left,20,Spain
+200,31-Aug-21,Matthew Hoppe,6.49,Schalke 04,6.64,Mallorca,6.5,3.66,Attack,191,Right,20,United States
+201,20-Aug-21,Rafa Mir,6.71,Wolverhampton Wanderers,6.74,Sevilla,6.74,16.0,Attack,186,Right,24,Spain
+202,03-Jan-18,Rafa Mir,5.92,Valencia,6.69,Wolverhampton Wanderers,6.74,2.0,Attack,186,Right,21,Spain
+203,15-Aug-21,Ludwig Augustinsson,6.91,Werder Bremen,6.64,Sevilla,6.74,5.76,Defence,180,Left,27,Sweden
+204,14-Aug-21,Raphaël Varane,6.96,Real Madrid,6.94,Manchester United,6.82,41.87,Defence,191,Right,28,France
+205,13-Aug-21,Gonzalo Montiel,7.16,River Plate,6.79,Sevilla,6.74,11.51,Defence,180,Right,24,Argentina
+206,28-Jul-21,Sergi Gómez,6.58,Sevilla,6.74,Espanyol,6.6,1.0,Defence,185,Right,29,Spain
+207,25-Jul-18,Sergi Gómez,6.64,Celta Vigo,6.65,Sevilla,6.74,5.5,Defence,185,Right,26,Spain
+208,26-Jul-21,Bryan Gil,6.99,Sevilla,6.74,Tottenham Hotspur,6.86,25.0,Attack,175,Left,20,Spain
+209,06-Jul-21,Júnior Firpo,6.95,Barcelona,6.94,Leeds United,6.65,15.7,Defence,184,Left,24,Spain
+210,04-Aug-19,Júnior Firpo,7.08,Real Betis,6.68,Barcelona,6.94,18.0,Defence,184,Left,22,Spain
+211,01-Jul-21,Juan Foyth,6.77,Tottenham Hotspur,6.86,Villarreal,6.73,15.0,Defence,182,Right,23,Argentina
+212,24-Jan-21,Carlos Fernández,6.34,Sevilla,6.74,Real Sociedad,6.69,10.0,Attack,191,Left,25,Spain
+213,03-Nov-20,Geoffrey Kondogbia,6.79,Valencia,6.69,Atletico Madrid,6.83,15.0,Defence,188,Left,27,Central African Republic
+214,08-Jun-18,Geoffrey Kondogbia,7.3,Internazionale,6.85,Valencia,6.69,22.0,Defence,188,Left,25,Central African Republic
+215,05-Oct-20,Thomas Partey,7.12,Atletico Madrid,6.83,Arsenal,6.76,50.0,Midfield,185,Right,27,Ghana
+216,05-Oct-20,Oussama Idrissi,7.64,AZ Alkmaar,6.8,Sevilla,6.74,12.0,Attack,183,Right,24,Morocco
+217,01-Oct-20,Sergiño Dest,6.85,Ajax Amsterdam,6.88,Barcelona,6.94,21.25,Midfield,175,Right,19,United States
+218,24-Sep-20,Diego Llorente,6.45,Real Sociedad,6.69,Leeds United,6.65,20.0,Defence,185,Right,26,Spain
+219,23-Sep-20,Nélson Semedo,6.88,Barcelona,6.94,Wolverhampton Wanderers,6.74,32.39,Defence,177,Right,26,Portugal
+220,19-Sep-20,Sergio Reguilón,7.13,Real Madrid,6.94,Tottenham Hotspur,6.86,30.36,Defence,180,Left,23,Spain
+221,17-Sep-20,Pervis Estupiñán,6.75,Watford,6.62,Villarreal,6.73,16.6,Defence,175,Left,22,Ecuador
+222,14-Sep-20,Marcos Acuña,6.87,Sporting CP,6.79,Sevilla,6.74,11.39,Midfield,175,Left,28,Argentina
+223,08-Sep-20,Yannick Carrasco,7.82,Dalian Professional,0.0,Atletico Madrid,6.83,27.0,Midfield,181,Right,26,Belgium
+224,26-Feb-18,Yannick Carrasco,6.89,Atletico Madrid,6.83,Dalian Professional,0.0,30.51,Midfield,181,Right,24,Belgium
+225,09-Aug-18,Martín Montoya,7.2,Valencia,6.69,Brighton & Hove Albion,6.66,7.12,Defence,174,Right,27,Spain
+226,12-Aug-20,Francis Coquelin,6.53,Valencia,6.69,Villarreal,6.73,7.19,Midfield,178,Right,29,France
+227,12-Jan-18,Francis Coquelin,6.97,Arsenal,6.76,Valencia,6.69,14.24,Midfield,178,Right,27,France
+228,12-Aug-20,Mohammed Salisu,6.67,Real Valladolid,6.54,Southampton,6.66,12.15,Defence,191,Left,21,Ghana
+229,01-Jul-20,Francisco Trincão,7.18,Braga,6.76,Barcelona,6.94,31.0,Attack,184,Left,20,Portugal
+230,01-Jul-20,Álvaro Morata,6.84,Chelsea,6.89,Atletico Madrid,6.83,35.0,Attack,187,Right,27,Spain
+231,01-Jul-20,Javi Sánchez,6.39,Real Madrid,6.94,Real Valladolid,6.54,3.0,Defence,189,Right,23,Spain
+232,20-Feb-20,Martin Braithwaite,6.48,Leganés,6.62,Barcelona,6.94,18.0,Attack,180,Both,29,Denmark
+233,24-Jul-19,Martin Braithwaite,6.56,Middlesbrough,6.59,Leganés,6.62,5.0,Attack,180,Both,28,Denmark
+234,20-Feb-20,Daniel Carriço,6.26,Sevilla,6.74,Wuhan Yangtze River,0.0,2.02,Defence,180,Right,31,Portugal
+235,28-Jan-20,Giovani Lo Celso,7.13,Real Betis,6.68,Tottenham Hotspur,6.86,32.0,Midfield,180,Left,24,Argentina
+236,01-Jul-19,Giovani Lo Celso,6.44,Paris Saint-Germain,7.02,Real Betis,6.68,22.0,Midfield,180,Left,23,Argentina
+237,24-Jan-20,Hugo Vallejo,5.84,Málaga,6.53,Real Madrid,6.94,0.3,Attack,181,Right,20,Spain
+238,02-Sep-19,Thierry Correia,6.61,Sporting CP,6.79,Valencia,6.69,12.0,Defence,176,Right,20,Portugal
+239,31-Aug-19,Nacho Monreal,7.05,Arsenal,6.76,Real Sociedad,6.69,0.26,Defence,179,Left,33,Spain
+240,14-Aug-19,Borja Iglesias,6.88,Espanyol,6.6,Real Betis,6.68,28.72,Attack,187,Right,26,Spain
+241,09-Aug-19,Fernando Calero,6.59,Real Valladolid,6.54,Espanyol,6.6,8.0,Defence,183,Right,23,Spain
+242,18-Jul-19,Mario Hermoso,6.83,Espanyol,6.6,Atletico Madrid,6.83,25.0,Defence,184,Left,24,Spain
+243,15-Jul-19,Óliver Torres,6.72,FC Porto,6.88,Sevilla,6.74,11.28,Midfield,178,Right,24,Spain
+244,14-Jul-19,Maxi Gómez,6.8,Celta Vigo,6.65,Valencia,6.69,14.87,Attack,186,Right,22,Uruguay
+245,12-Jul-19,Antoine Griezmann,7.43,Atletico Madrid,6.83,Barcelona,6.94,120.0,Attack,176,Left,28,France
+246,10-Jul-19,Mathias Jensen,6.02,Celta Vigo,6.65,Brentford,6.65,3.8,Midfield,180,Both,23,Denmark
+247,08-Aug-18,Mathias Jensen,7.81,FC Nordsjaelland,0.0,Celta Vigo,6.65,5.0,Midfield,180,Both,22,Denmark
+248,07-Jul-19,Renan Lodi,6.37,Athletico-PR,6.61,Atletico Madrid,6.83,21.75,Defence,178,Left,21,Brazil
+249,03-Jul-19,João Félix,7.56,Benfica,6.8,Atletico Madrid,6.83,126.0,Attack,180,Right,19,Portugal
+250,03-Jul-19,Raúl de Tomás,6.73,Real Madrid,6.94,Benfica,6.8,20.0,Attack,180,Right,24,Spain
+251,01-Jul-19,Frenkie de Jong,7.64,Ajax Amsterdam,6.88,Barcelona,6.94,75.0,Defence,181,Right,22,Netherlands
+252,01-Jul-19,Éder Militão,7.57,FC Porto,6.88,Real Madrid,6.94,50.0,Defence,186,Right,21,Brazil
+253,01-Jul-19,Jasper Cillessen,5.68,Barcelona,6.94,Valencia,6.69,35.0,Goalkeeper,187,Right,30,Netherlands
+254,01-Jul-19,Munas Dabbur,7.21,FC Salzburg,0.0,Sevilla,6.74,17.0,Attack,181,Both,27,Israel
+255,07-Jan-20,Munas Dabbur,5.92,Sevilla,6.74,TSG Hoffenheim,6.73,12.0,Attack,181,Both,28,Israel
+256,01-Jul-19,Jack Harper,5.99,Málaga,6.53,Getafe,6.6,1.5,Attack,187,Left,23,Scotland
+257,01-Jul-19,Eden Hazard,7.94,Chelsea,6.89,Real Madrid,6.94,117.96,Attack,173,Both,28,Belgium
+258,01-Jul-19,Joan Jordán,7.11,Eibar,6.63,Sevilla,6.74,14.0,Midfield,184,Right,25,Spain
+259,01-Jul-19,Sergio León,5.84,Real Betis,6.68,Levante,6.57,4.0,Attack,178,Right,30,Spain
+260,01-Jul-19,Marcos Llorente,6.74,Real Madrid,6.94,Atletico Madrid,6.83,30.0,Midfield,182,Right,24,Spain
+261,01-Jul-19,Manu Vallejo,6.48,Cádiz,6.5,Valencia,6.69,5.5,Attack,180,Right,22,Spain
+262,25-Jun-19,André Gomes,6.28,Barcelona,6.94,Everton,6.69,25.07,Midfield,188,Right,25,Portugal
+263,14-Jun-19,Pablo Fornals,6.57,Villarreal,6.73,West Ham United,6.75,28.72,Midfield,178,Right,23,Spain
+264,07-Jan-19,Brahim Díaz,5.96,Manchester City,7.08,Real Madrid,6.94,17.0,Midfield,170,Both,19,Spain
+265,07-Jan-19,Vicente Iborra,6.71,Leicester City,6.78,Villarreal,6.73,10.0,Midfield,190,Right,31,Spain
+266,15-Aug-18,Unai Simón,5.74,Elche,6.5,Athletic Club,0.0,0.5,Goalkeeper,189,Right,21,Spain
+267,09-Aug-18,Yerry Mina,6.55,Barcelona,6.94,Everton,6.69,30.25,Defence,193,Right,23,Colombia
+268,11-Jan-18,Yerry Mina,6.92,Palmeiras,6.79,Barcelona,6.94,11.8,Defence,193,Right,23,Colombia
+269,09-Aug-18,Thibaut Courtois,6.45,Chelsea,6.89,Real Madrid,6.94,35.6,Goalkeeper,200,Left,26,Belgium
+270,08-Aug-18,Kepa Arrizabalaga,6.34,Athletic Club,0.0,Chelsea,6.89,81.37,Goalkeeper,187,Right,23,Spain
+271,07-Aug-18,Jefferson Lerma,7.02,Levante,6.57,AFC Bournemouth,6.64,28.48,Midfield,179,Right,23,Colombia
+272,06-Aug-18,Aleix Vidal,6.36,Barcelona,6.94,Sevilla,6.74,9.3,Midfield,178,Right,28,Spain
+273,04-Aug-18,Ignasi Miquel,6.27,Málaga,6.53,Getafe,6.6,5.0,Defence,193,Left,25,Spain
+274,03-Aug-18,Rubén Alcaraz,6.85,Girona,6.69,Real Valladolid,6.54,1.02,Midfield,180,Right,27,Spain
+275,01-Aug-18,Fran Beltrán,6.31,Rayo Vallecano,6.58,Celta Vigo,6.65,8.0,Midfield,167,Right,19,Spain
+276,24-Jul-18,Diego Rico,6.98,Leganés,6.62,AFC Bournemouth,6.64,15.26,Defence,181,Left,25,Spain
+277,14-Jul-18,William Carvalho,7.27,Sporting CP,6.79,Real Betis,6.68,16.27,Midfield,187,Right,26,Portugal
+278,13-Jul-18,David Soria,6.48,Sevilla,6.74,Getafe,6.6,3.0,Goalkeeper,192,Left,25,Spain
+279,12-Jul-18,Clément Lenglet,6.72,Sevilla,6.74,Barcelona,6.94,35.9,Defence,185,Left,23,France
+280,12-Jul-18,Vinícius Júnior,7.33,Flamengo,6.8,Real Madrid,6.94,45.77,Attack,176,Right,18,Brazil
+281,12-Jul-18,Mikel Merino,6.78,Newcastle United,6.67,Real Sociedad,6.69,12.2,Midfield,188,Left,22,Spain
+282,01-Jan-18,Mikel Merino,6.82,Borussia Dortmund,6.88,Newcastle United,6.67,7.0,Midfield,188,Left,22,Spain
+283,05-Jul-18,Álvaro Odriozola,6.37,Real Sociedad,6.69,Real Madrid,6.94,32.55,Defence,178,Right,22,Spain
+284,09-Jul-19,Pau López,6.25,Real Betis,6.68,AS Roma,6.81,23.5,Goalkeeper,189,Right,24,Spain
+285,02-Jul-18,Antonio Barragán,6.78,Middlesbrough,6.59,Real Betis,6.68,1.0,Defence,186,Right,31,Spain
+286,01-Jul-18,Gerard Deulofeu,6.78,Barcelona,6.94,Watford,6.62,13.0,Attack,177,Right,24,Spain
+287,27-Jun-18,Roque Mesa,6.3,Swansea City,6.59,Sevilla,6.74,6.0,Midfield,171,Right,29,Spain
+288,12-Jun-18,Gerard Moreno,7.06,Espanyol,6.6,Villarreal,6.73,20.0,Attack,177,Left,26,Spain
+289,08-Jun-18,Florin Andone,6.04,Deportivo La Coruña,6.61,Brighton & Hove Albion,6.66,6.0,Attack,181,Right,25,Romania
+290,25-May-18,Ander Capa,6.6,Eibar,6.63,Athletic Club,0.0,3.0,Midfield,176,Right,26,Spain
+291,28-Feb-18,Cédric Bakambu,6.75,Villarreal,6.73,Beijing Guoan,0.0,40.0,Attack,182,Right,27,Congo DR
+292,30-Jan-18,Aymeric Laporte,7.31,Athletic Club,0.0,Manchester City,7.08,66.11,Defence,191,Left,24,Spain
+293,30-Jan-18,Iñigo Martínez,6.84,Real Sociedad,6.69,Athletic Club,0.0,32.55,Defence,182,Left,27,Spain
+294,18-Jul-22,Leo Ostigard,6.93,Brighton & Hove Albion,6.66,Napoli,6.83,5.34,Defence,185,Right,22,Norway
+295,16-Jul-22,Kalidou Koulibaly,7.49,Napoli,6.83,Chelsea,6.89,40.56,Defence,195,Right,31,Senegal
+296,15-Jul-22,Frank Tsadjout,6.65,Bologna,6.61,Cremonese,6.6,0.91,Attack,190,Left,22,Italy
+297,14-Jul-22,Andrea Cambiaso,6.89,Genoa,6.57,Juventus,6.89,8.5,Defence,181,Left,22,Italy
+298,17-Aug-18,Samu Castillejo,6.94,Villarreal,6.73,AC Milan,6.8,21.66,Attack,182,Left,23,Spain
+299,12-Jul-22,Mario Gila,6.67,Real Madrid,6.94,Lazio,6.78,6.4,Defence,184,Right,21,Spain
+300,09-Jul-22,Aaron Hickey,6.95,Bologna,6.61,Brentford,6.65,17.61,Defence,178,Left,20,Scotland
+301,04-Jul-22,Rolando Mandragora,6.9,Juventus,6.89,Fiorentina,6.66,8.2,Midfield,183,Left,25,Italy
+302,03-Oct-20,Rolando Mandragora,6.7,Udinese,6.62,Juventus,6.89,15.0,Midfield,183,Left,23,Italy
+303,26-Jul-18,Rolando Mandragora,6.96,Juventus,6.89,Udinese,6.62,20.0,Midfield,183,Left,21,Italy
+304,01-Jul-22,Federico Chiesa,7.07,Fiorentina,6.66,Juventus,6.89,40.0,Attack,175,Right,24,Italy
+305,01-Aug-18,Joaquín Correa,6.74,Sevilla,6.74,Lazio,6.78,17.85,Attack,188,Right,23,Argentina
+306,01-Jul-22,Merih Demiral,6.97,Juventus,6.89,Atalanta,6.85,20.0,Defence,192,Right,24,Turkey
+307,05-Jul-19,Merih Demiral,6.86,Sassuolo,6.65,Juventus,6.89,18.0,Defence,192,Right,21,Turkey
+308,01-Jul-22,Alessandro Florenzi,6.91,AS Roma,6.81,AC Milan,6.8,2.7,Midfield,173,Right,31,Italy
+309,24-Jul-18,Robin Olsen,7.01,FC Copenhagen,0.0,AS Roma,6.81,8.5,Goalkeeper,198,Both,28,Sweden
+310,31-Jan-22,Rodrigo Bentancur,7.45,Juventus,6.89,Tottenham Hotspur,6.86,19.0,Midfield,185,Right,25,Uruguay
+311,31-Aug-21,Cristiano Ronaldo,7.89,Juventus,6.89,Manchester United,6.82,15.0,Attack,187,Right,36,Portugal
+312,16-Jul-18,Cristiano Ronaldo,8.03,Real Madrid,6.94,Juventus,6.89,105.25,Attack,187,Right,33,Portugal
+313,31-Aug-21,Mohamed Ihattaren,6.94,PSV Eindhoven,6.85,Juventus,6.89,1.99,Attack,183,Left,19,Netherlands
+314,31-Aug-21,Takehiro Tomiyasu,6.68,Bologna,6.61,Arsenal,6.76,19.47,Defence,188,Right,22,Japan
+315,26-Aug-21,Isaac Success,6.56,Watford,6.62,Udinese,6.62,1.88,Attack,186,Right,25,Nigeria
+316,24-Aug-21,Davide Zappacosta,6.96,Chelsea,6.89,Atalanta,6.85,6.28,Defence,182,Right,29,Italy
+317,17-Aug-21,Tammy Abraham,6.74,Chelsea,6.89,AS Roma,6.81,40.0,Attack,190,Right,23,England
+318,17-Aug-21,Kaio Jorge,6.76,Santos,0.0,Juventus,6.89,1.57,Attack,182,Right,19,Brazil
+319,14-Aug-21,Denzel Dumfries,7.27,PSV Eindhoven,6.85,Internazionale,6.85,14.34,Defence,189,Right,25,Netherlands
+320,12-Aug-21,Ivan Ilić,6.79,Manchester City,7.08,Hellas Verona,6.6,7.5,Midfield,182,Left,20,Serbia
+321,12-Aug-21,Romelu Lukaku,7.65,Internazionale,6.85,Chelsea,6.89,118.28,Attack,191,Left,28,Belgium
+322,08-Aug-19,Romelu Lukaku,6.71,Manchester United,6.82,Internazionale,6.85,74.0,Attack,191,Left,26,Belgium
+323,06-Aug-21,Cristian Romero,7.14,Juventus,6.89,Atalanta,6.85,16.0,Defence,185,Right,23,Argentina
+324,12-Jul-19,Cristian Romero,6.78,Genoa,6.57,Juventus,6.89,26.0,Defence,185,Right,21,Argentina
+325,16-Jul-21,Felipe Anderson,6.94,West Ham United,6.75,Lazio,6.78,3.14,Midfield,178,Both,28,Brazil
+326,15-Jul-18,Felipe Anderson,7.23,Lazio,6.78,West Ham United,6.75,38.65,Midfield,178,Both,25,Brazil
+327,13-Jul-21,Rui Patrício,6.22,Wolverhampton Wanderers,6.74,AS Roma,6.81,11.5,Goalkeeper,190,Left,33,Portugal
+328,01-Jul-21,Antonio Candreva,7.16,Internazionale,6.85,Sampdoria,6.64,2.5,Midfield,180,Right,34,Italy
+329,01-Jul-21,Matteo Darmian,6.88,Parma,6.58,Internazionale,6.85,3.3,Defence,182,Right,31,Italy
+330,02-Sep-19,Matteo Darmian,6.6,Manchester United,6.82,Parma,6.58,2.48,Defence,182,Right,29,Italy
+331,01-Jul-21,Matteo Politano,6.98,Internazionale,6.85,Napoli,6.83,21.0,Attack,171,Left,27,Italy
+332,01-Jul-19,Matteo Politano,7.01,Sassuolo,6.65,Internazionale,6.85,21.1,Attack,171,Left,25,Italy
+333,26-Jan-21,Papu Gómez,7.6,Atalanta,6.85,Sevilla,6.74,5.76,Attack,167,Right,33,Argentina
+334,07-Jan-21,Amad Diallo,6.21,Atalanta,6.85,Manchester United,6.82,21.3,Attack,174,Left,19,Guinea
+335,05-Oct-20,Chris Smalling,6.57,Manchester United,6.82,AS Roma,6.81,15.0,Defence,192,Right,30,England
+336,01-Oct-20,Mohamed Fares,6.07,SPAL,6.59,Lazio,6.78,8.0,Midfield,184,Left,24,Algeria
+337,31-Jul-19,Kevin-Prince Boateng,6.68,Sassuolo,6.65,Fiorentina,6.66,1.54,Attack,184,Right,32,Ghana
+338,18-Sep-20,Andrea Pinamonti,6.15,Genoa,6.57,Internazionale,6.85,21.0,Attack,185,Right,21,Italy
+339,01-Jul-20,Andrea Pinamonti,6.15,Internazionale,6.85,Genoa,6.57,19.5,Attack,185,Right,21,Italy
+340,16-Sep-20,Darian Males,6.65,FC Luzern,0.0,Internazionale,6.85,2.53,Attack,185,Left,19,Switzerland
+341,15-Sep-20,Vedat Muriqi,7.25,Fenerbahce,6.8,Lazio,6.78,20.16,Attack,194,Left,26,Kosovo
+342,03-Sep-20,Timothy Castagne,6.77,Atalanta,6.85,Leicester City,6.78,20.9,Defence,187,Right,24,Belgium
+343,01-Sep-20,Vlad Chiriches,6.3,Napoli,6.83,Sassuolo,6.65,9.5,Defence,184,Both,30,Romania
+344,01-Sep-20,Lorenzo Tonelli,6.16,Napoli,6.83,Sampdoria,6.64,2.0,Defence,184,Right,30,Italy
+345,04-Aug-20,Maxime Gonalons,6.7,AS Roma,6.81,Granada,6.55,4.0,Midfield,187,Right,31,France
+346,15-Jul-20,Simon Kjaer,6.7,Sevilla,6.74,AC Milan,6.8,3.68,Defence,190,Right,31,Denmark
+347,02-Jul-20,Achraf Hakimi,7.29,Real Madrid,6.94,Internazionale,6.85,43.52,Midfield,180,Right,21,Morocco
+348,06-Jul-21,Achraf Hakimi,7.24,Internazionale,6.85,Paris Saint-Germain,7.02,66.5,Midfield,180,Right,22,Morocco
+349,01-Jul-20,Jordan Veretout,6.92,Fiorentina,6.66,AS Roma,6.81,16.0,Midfield,176,Right,27,France
+350,01-Jul-20,Gianluca Mancini,6.7,Atalanta,6.85,AS Roma,6.81,13.0,Defence,190,Right,24,Italy
+351,01-Jul-20,Nicolò Barella,6.84,Cagliari,6.58,Internazionale,6.85,32.5,Midfield,172,Right,23,Italy
+352,01-Jul-20,Alexis Saelemaekers,6.83,Anderlecht,6.76,AC Milan,6.8,5.25,Midfield,180,Right,21,Belgium
+353,30-Jan-20,Gonzalo Villar,6.66,Elche,6.5,AS Roma,6.81,4.0,Midfield,180,Right,22,Spain
+354,30-Jan-20,Andrea Petagna,6.65,SPAL,6.59,Napoli,6.83,16.8,Attack,190,Left,25,Italy
+355,28-Jan-20,Christian Eriksen,6.49,Tottenham Hotspur,6.86,Internazionale,6.85,27.33,Midfield,182,Both,28,Denmark
+356,24-Jan-20,Marvin Zeegelaar,6.33,Watford,6.62,Udinese,6.62,2.02,Midfield,186,Left,29,Netherlands
+357,20-Jan-20,Amir Rrahmani,6.61,Hellas Verona,6.6,Napoli,6.83,14.37,Defence,192,Right,26,Kosovo
+358,17-Jan-20,Ashley Young,6.85,Manchester United,6.82,Internazionale,6.85,1.7,Midfield,175,Both,35,England
+359,15-Jan-20,Stanislav Lobotka,6.42,Celta Vigo,6.65,Napoli,6.83,21.25,Midfield,170,Right,25,Slovakia
+360,14-Jan-20,Jeison Murillo,6.76,Valencia,6.69,Sampdoria,6.64,13.3,Defence,182,Right,28,Colombia
+361,02-Jan-20,Dejan Kulusevski,6.94,Atalanta,6.85,Juventus,6.89,35.0,Attack,186,Left,20,Sweden
+362,23-Aug-19,Hirving Lozano,7.77,PSV Eindhoven,6.85,Napoli,6.83,46.16,Attack,177,Right,23,Mexico
+363,08-Aug-19,Dennis Praet,7.01,Sampdoria,6.64,Leicester City,6.78,19.69,Midfield,179,Right,25,Belgium
+364,07-Aug-19,João Cancelo,7.38,Juventus,6.89,Manchester City,7.08,65.0,Defence,182,Right,25,Portugal
+365,27-Jun-18,João Cancelo,6.79,Valencia,6.69,Juventus,6.89,40.4,Defence,182,Right,24,Portugal
+366,04-Aug-19,Moise Kean,6.76,Juventus,6.89,Everton,6.69,27.5,Attack,183,Right,19,Italy
+367,04-Aug-19,Ismaël Bennacer,7.06,Empoli,6.56,AC Milan,6.8,17.64,Midfield,175,Left,21,Algeria
+368,02-Aug-19,Bruno Jordão,6.23,Lazio,6.78,Wolverhampton Wanderers,6.74,8.9,Midfield,180,Right,20,Portugal
+369,02-Aug-19,Pedro Neto,5.74,Lazio,6.78,Wolverhampton Wanderers,6.74,17.9,Attack,172,Left,19,Portugal
+370,30-Jul-19,Patrick Cutrone,6.03,AC Milan,6.8,Wolverhampton Wanderers,6.74,18.46,Attack,183,Right,21,Italy
+371,24-Jul-19,Eljif Elmas,6.64,Fenerbahce,6.8,Napoli,6.83,16.62,Midfield,182,Right,19,North Macedonia
+372,24-Jul-19,Pedro Obiang,6.39,West Ham United,6.75,Sassuolo,6.65,7.5,Midfield,185,Right,27,Equatorial Guinea
+373,18-Jul-19,Matthijs de Ligt,7.21,Ajax Amsterdam,6.88,Juventus,6.89,75.0,Defence,189,Both,19,Netherlands
+374,19-Jul-22,Matthijs de Ligt,7.11,Juventus,6.89,Bayern Munich,7.05,67.0,Defence,189,Both,22,Netherlands
+375,13-Jul-19,Filippo Costa,6.66,SPAL,6.59,Napoli,6.83,1.45,Defence,176,Left,24,Italy
+376,06-Jul-19,Theo Hernández,6.84,Real Madrid,6.94,AC Milan,6.8,22.05,Defence,184,Left,21,France
+377,05-Jul-19,Lucien Agoumé,6.24,Sochaux,0.0,Internazionale,6.85,4.5,Midfield,185,Right,17,France
+378,01-Jul-19,Leonardo Spinazzola,6.48,Juventus,6.89,AS Roma,6.81,29.5,Defence,186,Right,26,Italy
+379,01-Jul-19,Luca Pellegrini,6.33,AS Roma,6.81,Juventus,6.89,22.0,Defence,178,Left,20,Italy
+380,01-Jul-19,Amadou Diawara,6.7,Napoli,6.83,AS Roma,6.81,21.0,Midfield,183,Right,21,Guinea
+381,01-Jul-19,Ola Aina,6.85,Chelsea,6.89,Torino,6.71,9.8,Defence,182,Right,22,Nigeria
+382,01-Jul-19,Eddie Salcedo,5.94,Genoa,6.57,Internazionale,6.85,10.26,Attack,178,Left,17,Italy
+383,01-Jul-19,Zinho Vanheusden,6.92,Internazionale,6.85,Standard Liege,6.56,11.74,Defence,187,Right,19,Belgium
+384,17-Aug-18,Stephy Mavididi,5.8,Arsenal,6.76,Juventus,6.89,1.53,Attack,182,Right,20,England
+385,01-Jul-20,Stephy Mavididi,6.26,Juventus,6.89,Montpellier,6.7,6.3,Attack,182,Right,22,England
+386,16-Aug-18,Albin Ekdal,6.6,Hamburg SV,6.84,Sampdoria,6.64,2.6,Midfield,186,Right,28,Sweden
+387,02-Aug-18,Leonardo Bonucci,6.78,AC Milan,6.8,Juventus,6.89,35.0,Defence,190,Right,31,Italy
+388,02-Aug-18,Mattia Caldara,6.89,Juventus,6.89,AC Milan,6.8,35.0,Defence,187,Right,24,Italy
+389,01-Aug-18,Ronaldo Vieira,6.47,Leeds United,6.65,Sampdoria,6.64,7.1,Midfield,178,Right,19,England
+390,20-Jul-18,Christian Norgaard,6.94,Brøndby,0.0,Fiorentina,6.66,3.5,Defence,186,Right,24,Denmark
+391,13-Jul-18,Federico Ceccherini,6.77,Crotone,6.52,Fiorentina,6.66,3.66,Defence,187,Right,26,Italy
+392,11-Jul-18,Francesco Acerbi,6.89,Sassuolo,6.65,Lazio,6.78,12.2,Defence,192,Left,30,Italy
+393,10-Jul-18,Lucas Torreira,7.36,Sampdoria,6.64,Arsenal,6.76,29.14,Midfield,165,Right,22,Uruguay
+394,05-Jul-18,Fabián Ruiz,7.38,Real Betis,6.68,Napoli,6.83,30.0,Midfield,189,Left,22,Spain
+395,05-Jul-18,Mattias Svanberg,7.18,Malmo FF,0.0,Bologna,6.61,4.5,Midfield,185,Right,19,Sweden
+396,04-Jul-18,Lautaro Martínez,6.52,Racing Club,6.74,Internazionale,6.85,25.43,Attack,174,Right,20,Argentina
+397,26-Jun-18,Davide Santon,6.83,Internazionale,6.85,AS Roma,6.81,9.66,Defence,187,Right,27,Italy
+398,22-Jun-18,Justin Kluivert,7.51,Ajax Amsterdam,6.88,AS Roma,6.81,17.25,Attack,171,Both,19,Netherlands
+399,22-Jun-18,Riza Durmisi,6.49,Real Betis,6.68,Lazio,6.78,7.63,Defence,171,Left,24,Denmark
+400,10-Jun-18,Pierluigi Gollini,6.6,Aston Villa,6.71,Atalanta,6.85,4.4,Goalkeeper,188,Right,23,Italy
+401,05-Jan-18,Jean-Claude Billong,6.04,NK Maribor,0.0,Benevento,6.46,2.14,Defence,192,Right,24,Cameroon
+402,19-Jul-22,Robert Lewandowski,8.04,Bayern Munich,7.05,Barcelona,6.94,45.0,Attack,184,Right,33,Poland
+403,10-Jul-22,Omar Richards,6.7,Bayern Munich,7.05,Nottingham Forest,6.53,9.07,Defence,185,Left,24,England
+404,06-Jul-22,Tyler Adams,6.7,RB Leipzig,6.86,Leeds United,6.65,18.15,Defence,175,Right,23,United States
+405,01-Jan-19,Tyler Adams,7.07,New York Red Bulls,6.65,RB Leipzig,6.86,2.63,Defence,175,Right,20,United States
+406,01-Jul-22,Ryan Gravenberch,7.52,Ajax Amsterdam,6.88,Bayern Munich,7.05,18.5,Midfield,187,Right,20,Netherlands
+407,01-Jul-22,Karim Adeyemi,7.4,FC Salzburg,0.0,Borussia Dortmund,6.88,30.0,Attack,182,Left,20,Germany
+408,01-Jul-22,Taiwo Awoniyi,7.03,1. FC Union Berlin,6.63,Nottingham Forest,6.53,20.5,Attack,182,Right,24,Nigeria
+409,01-Jul-22,Mario Götze,7.38,PSV Eindhoven,6.85,Eintracht Frankfurt,6.73,4.0,Attack,176,Both,30,Germany
+410,01-Jul-22,Erling Haaland,7.77,Borussia Dortmund,6.88,Manchester City,7.08,60.0,Attack,194,Left,21,Norway
+411,01-Jan-20,Erling Haaland,7.84,FC Salzburg,0.0,Borussia Dortmund,6.88,20.0,Attack,194,Left,19,Norway
+412,01-Jul-22,Sadio Mané,7.47,Liverpool,6.96,Bayern Munich,7.05,34.16,Attack,175,Right,30,Senegal
+413,01-Jul-22,Eric Martel,7.37,RB Leipzig,6.86,FC Cologne,6.6,1.2,Defence,186,Right,20,Germany
+414,01-Jul-22,Marc Roca,6.84,Bayern Munich,7.05,Leeds United,6.65,12.81,Midfield,184,Left,25,Spain
+415,04-Oct-20,Marc Roca,6.36,Espanyol,6.6,Bayern Munich,7.05,9.11,Midfield,184,Left,23,Spain
+416,01-Jul-22,Xaver Schlager,7.17,VfL Wolfsburg,6.73,RB Leipzig,6.86,12.81,Midfield,184,Left,24,Austria
+417,01-Jul-22,Nico Schlotterbeck,7.59,SC Freiburg,6.65,Borussia Dortmund,6.88,20.0,Defence,191,Left,22,Germany
+418,01-Jul-22,Steffen Tigges,6.52,Borussia Dortmund,6.88,FC Cologne,6.6,1.5,Attack,195,Right,23,Germany
+419,31-Jan-22,Jean-Philippe Mateta,6.73,Mainz,6.64,Crystal Palace,6.72,11.74,Attack,192,Right,25,France
+420,01-Jul-18,Jean-Philippe Mateta,6.75,Lyon,6.87,Mainz,6.64,8.0,Attack,192,Right,21,France
+421,31-Jan-22,Denis Zakaria,7.25,Borussia Monchengladbach,6.75,Juventus,6.89,9.18,Defence,191,Right,25,Switzerland
+422,28-Jan-22,Kevin Paredes,6.15,D.C. United,6.44,VfL Wolfsburg,6.73,7.13,Midfield,168,Left,19,United States
+423,03-Jan-22,Ricardo Pepi,7.05,FC Dallas,6.6,FC Augsburg,6.61,17.47,Attack,185,Right,19,United States
+424,31-Aug-21,Ilaix Moriba,6.74,Barcelona,6.94,RB Leipzig,6.86,16.75,Midfield,185,Right,18,Guinea
+425,30-Aug-21,Marcel Sabitzer,7.26,RB Leipzig,6.86,Bayern Munich,7.05,15.7,Midfield,177,Right,27,Austria
+426,27-Aug-21,Jurgen Ekkelenkamp,6.78,Ajax Amsterdam,6.88,Hertha Berlin,6.65,3.14,Midfield,188,Right,21,Netherlands
+427,26-Aug-21,Amine Adli,7.19,Toulouse,6.6,Bayer Leverkusen,6.81,7.85,Attack,178,Left,21,France
+428,25-Aug-21,Matheus Cunha,7.13,Hertha Berlin,6.65,Atletico Madrid,6.83,26.0,Attack,184,Right,22,Brazil
+429,31-Jan-20,Matheus Cunha,6.79,RB Leipzig,6.86,Hertha Berlin,6.65,18.0,Attack,184,Right,21,Brazil
+430,01-Jul-18,Matheus Cunha,6.19,FC Sion,0.0,RB Leipzig,6.86,15.0,Attack,184,Right,19,Brazil
+431,25-Aug-21,Thomas Delaney,6.77,Borussia Dortmund,6.88,Sevilla,6.74,6.28,Midfield,182,Left,29,Denmark
+432,07-Jun-18,Thomas Delaney,7.08,Werder Bremen,6.64,Borussia Dortmund,6.88,20.0,Midfield,182,Left,26,Denmark
+433,05-Aug-21,Lazar Samardzic,6.5,RB Leipzig,6.86,Lazio,6.78,3.0,Midfield,185,Left,19,Germany
+434,08-Sep-20,Lazar Samardzic,5.35,Hertha Berlin,6.65,RB Leipzig,6.86,0.5,Midfield,185,Left,18,Germany
+435,04-Aug-21,Leon Bailey,7.29,Bayer Leverkusen,6.81,Aston Villa,6.71,32.0,Attack,178,Left,23,Jamaica
+436,27-Jul-21,Donyell Malen,7.52,PSV Eindhoven,6.85,Borussia Dortmund,6.88,31.4,Attack,179,Right,22,Netherlands
+437,23-Jul-21,Jadon Sancho,7.72,Borussia Dortmund,6.88,Manchester United,6.82,88.97,Attack,180,Right,21,England
+438,22-Jul-21,Demarai Gray,6.57,Bayer Leverkusen,6.81,Everton,6.69,2.09,Attack,179,Right,25,England
+439,31-Jan-21,Demarai Gray,6.42,Leicester City,6.78,Bayer Leverkusen,6.81,2.09,Attack,179,Right,25,England
+440,22-Jul-21,Odilon Kossounou,6.96,Club Brugge,0.0,Bayer Leverkusen,6.81,24.07,Defence,192,Right,20,Ivory Coast
+441,17-Jul-21,Lukas Nmecha,7.24,Manchester City,7.08,VfL Wolfsburg,6.73,8.0,Attack,185,Right,22,Germany
+442,02-Jul-21,André Silva,7.61,Eintracht Frankfurt,6.73,RB Leipzig,6.86,23.0,Attack,182,Right,25,Portugal
+443,10-Sep-20,André Silva,6.82,AC Milan,6.8,Eintracht Frankfurt,6.73,3.0,Attack,182,Right,24,Portugal
+444,01-Jul-21,Dayot Upamecano,6.94,RB Leipzig,6.86,Bayern Munich,7.05,42.5,Defence,185,Right,22,France
+445,01-Jul-21,Ibrahima Konaté,6.87,RB Leipzig,6.86,Liverpool,6.96,41.5,Defence,194,Right,22,France
+446,01-Jul-21,Naouirou Ahamada,6.07,Juventus,6.89,VfB Stuttgart,6.65,1.5,Midfield,183,Right,19,France
+447,01-Jul-21,Caden Clark,6.86,New York Red Bulls,6.65,RB Leipzig,6.86,1.82,Midfield,180,Right,18,United States
+448,01-Jul-21,Gregor Kobel,6.34,VfB Stuttgart,6.65,Borussia Dortmund,6.88,15.0,Goalkeeper,193,Right,23,Switzerland
+449,01-Jul-21,Jeremy Toljan,6.5,Borussia Dortmund,6.88,Sassuolo,6.65,3.5,Defence,182,Right,26,Germany
+450,01-Jul-21,Hannes Wolf,6.29,RB Leipzig,6.86,Borussia Monchengladbach,6.75,9.5,Midfield,179,Right,22,Austria
+451,01-Jul-19,Hannes Wolf,7.19,FC Salzburg,0.0,RB Leipzig,6.86,12.0,Midfield,179,Right,20,Austria
+452,13-Jan-21,Timothy Fosu-Mensah,6.5,Manchester United,6.82,Bayer Leverkusen,6.81,1.78,Defence,190,Right,23,Netherlands
+453,02-Jan-21,Dominik Szoboszlai,6.8,FC Salzburg,0.0,RB Leipzig,6.86,22.0,Midfield,176,Right,20,Hungary
+454,05-Oct-20,Karim Rekik,6.26,Hertha Berlin,6.65,Sevilla,6.74,2.0,Defence,186,Left,25,Netherlands
+455,08-Sep-20,Patrik Schick,7.07,AS Roma,6.81,Bayer Leverkusen,6.81,26.5,Attack,191,Left,24,Czech Republic
+456,04-Sep-20,Kai Havertz,7.12,Bayer Leverkusen,6.81,Chelsea,6.89,80.0,Attack,189,Left,21,Germany
+457,29-Aug-20,Robin Koch,6.56,SC Freiburg,6.65,Leeds United,6.65,13.0,Defence,192,Right,23,Germany
+458,20-Jul-20,Jude Bellingham,6.63,Birmingham City,6.65,Borussia Dortmund,6.88,25.0,Midfield,185,Right,17,England
+459,01-Jul-20,Emre Can,6.38,Juventus,6.89,Borussia Dortmund,6.88,25.0,Midfield,185,Both,26,Germany
+460,01-Jul-20,Josep Martínez,6.7,Las Palmas,6.54,RB Leipzig,6.86,2.5,Goalkeeper,192,Right,22,Spain
+461,01-Jul-20,Timo Werner,7.75,RB Leipzig,6.86,Chelsea,6.89,53.0,Attack,181,Both,24,Germany
+462,31-Jan-20,Jacob Bruun Larsen,6.62,Borussia Dortmund,6.88,TSG Hoffenheim,6.73,9.11,Attack,183,Left,21,Denmark
+463,30-Jan-20,Paco Alcácer,7.0,Borussia Dortmund,6.88,Villarreal,6.73,25.0,Attack,176,Both,26,Spain
+464,01-Jan-19,Paco Alcácer,6.82,Barcelona,6.94,Borussia Dortmund,6.88,23.0,Attack,176,Both,25,Spain
+465,30-Jan-20,Krzysztof Piatek,6.36,AC Milan,6.8,Hertha Berlin,6.65,24.29,Attack,183,Right,25,Poland
+466,25-Jan-20,Dani Olmo,6.4,Dinamo Zagreb,0.0,RB Leipzig,6.86,29.35,Attack,179,Right,22,Spain
+467,11-Jan-20,Diego Demme,6.76,RB Leipzig,6.86,Napoli,6.83,10.38,Midfield,170,Both,28,Germany
+468,01-Jan-20,Exequiel Palacios,6.81,River Plate,6.79,Bayer Leverkusen,6.81,17.0,Midfield,177,Right,21,Argentina
+469,09-Aug-19,Maximilian Philipp,6.39,Borussia Dortmund,6.88,Dinamo Moscow,6.79,20.0,Attack,184,Both,25,Germany
+470,02-Aug-19,Reece Oxford,5.82,West Ham United,6.75,FC Augsburg,6.61,2.0,Defence,191,Right,20,England
+471,30-Jul-19,Nadiem Amiri,6.96,TSG Hoffenheim,6.73,Bayer Leverkusen,6.81,9.23,Midfield,178,Right,22,Germany
+472,27-Jul-19,Robert Skov,7.95,FC Copenhagen,0.0,TSG Hoffenheim,6.73,10.26,Midfield,183,Left,23,Denmark
+473,25-Jul-19,Ademola Lookman,6.34,Everton,6.69,RB Leipzig,6.86,18.0,Attack,175,Both,21,Nigeria
+474,22-Jul-19,Marcus Thuram,6.93,Guingamp,6.63,Borussia Monchengladbach,6.75,9.23,Attack,189,Right,21,France
+475,03-Jul-19,Dominik Kohr,6.45,Bayer Leverkusen,6.81,Eintracht Frankfurt,6.73,8.5,Midfield,183,Left,25,Germany
+476,02-Jul-19,Carlos Gruezo,6.66,FC Dallas,6.6,FC Augsburg,6.61,4.0,Midfield,171,Right,24,Ecuador
+477,01-Jul-19,Lucas Hernández,7.1,Atletico Madrid,6.83,Bayern Munich,7.05,80.0,Defence,184,Left,23,France
+478,01-Jul-19,Sargis Adamyan,6.87,SSV Jahn Regensburg,6.82,TSG Hoffenheim,6.73,1.54,Attack,184,Right,26,Armenia
+479,01-Jul-19,Ihlas Bebou,7.3,Hannover 96,6.65,TSG Hoffenheim,6.73,8.72,Attack,183,Right,25,Togo
+480,01-Jul-19,Julian Brandt,7.23,Bayer Leverkusen,6.81,Borussia Dortmund,6.88,25.0,Midfield,183,Right,23,Germany
+481,01-Jul-19,Fabian Bredlow,5.49,Nurnberg,0.0,VfB Stuttgart,6.65,0.3,Goalkeeper,190,Right,24,Germany
+482,01-Jul-19,Kerem Demirbay,7.41,TSG Hoffenheim,6.73,Bayer Leverkusen,6.81,32.0,Midfield,185,Left,26,Germany
+483,01-Jul-19,Landry Dimata,7.12,VfL Wolfsburg,6.73,Anderlecht,6.76,5.0,Attack,187,Right,21,Belgium
+484,01-Jul-19,Breel Embolo,6.43,Schalke 04,6.64,Borussia Monchengladbach,6.75,11.0,Attack,184,Right,22,Switzerland
+485,15-Jul-22,Breel Embolo,6.99,Borussia Monchengladbach,6.75,AS Monaco,6.75,13.34,Attack,184,Right,25,Switzerland
+486,01-Jul-19,Edimilson Fernandes,6.43,West Ham United,6.75,Mainz,6.64,7.5,Midfield,190,Right,23,Switzerland
+487,01-Jul-19,Marco Friedl,6.61,Bayern Munich,7.05,Werder Bremen,6.64,3.5,Defence,187,Left,21,Austria
+488,01-Jul-19,Marvin Friedrich,6.84,1. FC Union Berlin,6.63,FC Augsburg,6.61,1.0,Defence,193,Right,23,Germany
+489,27-Jan-18,Marvin Friedrich,6.57,FC Augsburg,6.61,1. FC Union Berlin,6.63,0.3,Defence,193,Right,22,Germany
+490,01-Jul-19,Niclas Füllkrug,6.39,Hannover 96,6.65,Werder Bremen,6.64,6.67,Attack,189,Both,26,Germany
+491,01-Jul-19,Thorgan Hazard,7.38,Borussia Monchengladbach,6.75,Borussia Dortmund,6.88,25.5,Attack,174,Both,26,Belgium
+492,01-Jul-19,Mats Hummels,7.33,Bayern Munich,7.05,Borussia Dortmund,6.88,30.5,Defence,191,Right,30,Germany
+493,01-Jul-19,Alexander Isak,7.54,Borussia Dortmund,6.88,Real Sociedad,6.69,15.0,Attack,190,Right,19,Sweden
+494,01-Jul-19,Ozan Kabak,6.83,VfB Stuttgart,6.65,Schalke 04,6.64,15.0,Defence,186,Right,19,Turkey
+495,17-Jan-19,Ozan Kabak,6.7,Galatasaray,6.52,VfB Stuttgart,6.65,11.28,Defence,186,Right,19,Turkey
+496,01-Jul-19,Philipp Klement,7.53,SC Paderborn 07,6.52,VfB Stuttgart,6.65,2.56,Midfield,174,Left,26,Germany
+497,01-Jul-19,Stefan Lainer,7.24,FC Salzburg,0.0,Borussia Monchengladbach,6.75,12.5,Defence,176,Right,26,Austria
+498,01-Jul-19,Kevin Mbabu,7.2,Young Boys,0.0,VfL Wolfsburg,6.73,9.2,Defence,184,Right,24,Switzerland
+499,01-Jul-19,Florian Niederlechner,6.16,SC Freiburg,6.65,FC Augsburg,6.61,2.56,Attack,186,Left,27,Germany
+500,01-Jul-19,Benjamin Pavard,6.47,VfB Stuttgart,6.65,Bayern Munich,7.05,35.9,Defence,186,Right,23,France
+501,01-Jul-19,Jonathan Schmid,6.72,FC Augsburg,6.61,SC Freiburg,6.65,4.0,Midfield,179,Right,29,France
+502,01-Jul-19,Nico Schulz,7.05,TSG Hoffenheim,6.73,Borussia Dortmund,6.88,25.5,Defence,180,Left,26,Germany
+503,01-Jul-19,Paul Seguin,6.93,VfL Wolfsburg,6.73,SpVgg Greuther Furth,6.49,0.3,Midfield,186,Right,24,Germany
+504,01-Jul-19,Daley Sinkgraven,6.33,Ajax Amsterdam,6.88,Bayer Leverkusen,6.81,5.0,Defence,178,Left,24,Netherlands
+505,28-Jan-19,Lucas Ribeiro,6.28,Vitória,0.0,TSG Hoffenheim,6.73,3.0,Defence,190,Right,20,Brazil
+506,18-Jan-19,Florian Kainz,6.44,Werder Bremen,6.64,FC Cologne,6.6,3.08,Attack,174,Right,26,Austria
+507,14-Jan-19,Leonardo Balerdi,5.89,Boca Juniors,6.6,Borussia Dortmund,6.88,15.9,Defence,191,Right,20,Argentina
+508,03-Jul-21,Leonardo Balerdi,6.62,Borussia Dortmund,6.88,Marseille,6.79,11.0,Defence,191,Right,22,Argentina
+509,02-Jan-19,Christian Pulisic,6.74,Borussia Dortmund,6.88,Chelsea,6.89,64.0,Attack,179,Both,20,United States
+510,01-Jan-19,Alphonso Davies,6.31,Vancouver Whitecaps,6.52,Bayern Munich,7.05,10.26,Midfield,181,Left,18,Canada
+511,01-Jan-19,Amadou Haidara,6.81,FC Salzburg,0.0,RB Leipzig,6.86,19.0,Midfield,175,Right,21,Mali
+512,27-Aug-18,Sebastian Rudy,6.98,Bayern Munich,7.05,Schalke 04,6.64,16.27,Defence,179,Right,28,Germany
+513,09-Aug-18,Caglar Söyüncü,6.46,SC Freiburg,6.65,Leicester City,6.78,21.46,Defence,187,Right,22,Turkey
+514,06-Aug-18,Axel Witsel,7.15,Tianjin Quanjian,0.0,Borussia Dortmund,6.88,20.0,Defence,186,Right,29,Belgium
+515,12-Jul-18,Gonçalo Paciência,6.54,FC Porto,6.88,Eintracht Frankfurt,6.73,3.05,Attack,184,Right,23,Portugal
+516,10-Jul-18,Nicolás González,6.66,Argentinos Juniors,6.6,VfB Stuttgart,6.65,8.5,Attack,180,Left,20,Argentina
+517,01-Jul-18,Marius Wolf,7.02,Eintracht Frankfurt,6.73,Borussia Dortmund,6.88,5.0,Midfield,187,Right,23,Germany
+518,01-Jul-18,Ishak Belfodil,6.32,Standard Liege,6.56,TSG Hoffenheim,6.73,5.5,Attack,191,Right,26,Algeria
+519,01-Jul-18,Leonardo Bittencourt,6.78,FC Cologne,6.6,TSG Hoffenheim,6.73,6.0,Midfield,171,Both,24,Germany
+520,01-Jul-18,Abdou Diallo,6.89,Mainz,6.64,Borussia Dortmund,6.88,28.0,Defence,187,Left,22,Senegal
+521,16-Jul-19,Abdou Diallo,6.82,Borussia Dortmund,6.88,Paris Saint-Germain,7.02,32.82,Defence,187,Left,23,Senegal
+522,01-Jul-18,Marvin Ducksch,7.26,St Pauli,6.64,Fortuna Düsseldorf,6.68,2.0,Attack,188,Both,24,Germany
+523,01-Jul-18,Mark Flekken,6.06,MSV Duisburg,0.0,SC Freiburg,6.65,2.03,Goalkeeper,189,Right,25,Netherlands
+524,01-Jul-18,Rafal Gikiewicz,6.14,SC Freiburg,6.65,1. FC Union Berlin,6.63,0.15,Goalkeeper,190,Right,30,Poland
+525,01-Jul-18,André Hahn,6.11,Hamburg SV,6.84,FC Augsburg,6.61,3.0,Attack,185,Both,27,Germany
+526,01-Jul-18,Martin Harnik,6.48,Hannover 96,6.65,Werder Bremen,6.64,2.29,Attack,185,Right,31,Austria
+527,01-Jul-18,Dominique Heintz,6.41,FC Cologne,6.6,SC Freiburg,6.65,3.0,Defence,190,Left,24,Germany
+528,01-Jul-18,Fredrik Jensen,6.49,FC Twente,6.76,FC Augsburg,6.61,3.0,Midfield,183,Right,20,Finland
+529,01-Jul-18,Lukas Klünter,6.48,FC Cologne,6.6,Hertha Berlin,6.65,2.0,Defence,187,Right,22,Germany
+530,01-Jul-18,Omar Mascarell,6.94,Real Madrid,6.94,Schalke 04,6.64,10.0,Midfield,181,Right,25,Spain
+531,01-Jul-18,Frederik Ronnow,6.48,Brøndby,0.0,Eintracht Frankfurt,6.73,2.8,Goalkeeper,188,Right,25,Denmark
+532,01-Jul-18,Salif Sané,7.25,Hannover 96,6.65,Schalke 04,6.64,7.0,Defence,195,Right,27,Senegal
+533,01-Jul-18,Benno Schmitz,7.23,RB Leipzig,6.86,FC Cologne,6.6,0.2,Defence,182,Right,23,Germany
+534,01-Jul-18,Marvin Schwäbe,5.95,TSG Hoffenheim,6.73,Brøndby,0.0,0.7,Goalkeeper,190,Right,23,Germany
+535,01-Jul-18,Luca Waldschmidt,6.13,Hamburg SV,6.84,SC Freiburg,6.65,5.0,Attack,181,Left,22,Germany
+536,01-Jul-18,Mitchell Weiser,6.82,Hertha Berlin,6.65,Bayer Leverkusen,6.81,12.0,Midfield,176,Right,24,Germany
+537,19-Jun-18,Bernd Leno,6.31,Bayer Leverkusen,6.81,Arsenal,6.76,25.0,Goalkeeper,190,Right,26,Germany
+538,11-Jun-18,Vincenzo Grifo,6.61,Borussia Monchengladbach,6.75,TSG Hoffenheim,6.73,5.5,Attack,181,Right,25,Italy
+539,18-May-18,Suat Serdar,6.5,Mainz,6.64,Schalke 04,6.64,11.0,Midfield,183,Right,21,Germany
+540,14-May-18,Roberto Massimo,6.06,Arminia Bielefeld,6.52,VfB Stuttgart,6.65,2.5,Midfield,185,Right,17,Germany
+541,31-Jan-18,Pierre-Emerick Aubameyang,7.51,Borussia Dortmund,6.88,Arsenal,6.76,63.28,Attack,187,Both,29,Gabon
+542,30-Jan-18,Marc Bartra,7.08,Borussia Dortmund,6.88,Real Betis,6.68,10.68,Defence,184,Right,27,Spain
+543,15-Jan-18,Manuel Akanji,6.7,FC Basel,0.0,Borussia Dortmund,6.88,21.87,Defence,187,Right,22,Switzerland
+544,10-Jan-18,Renato Steffen,6.06,FC Basel,0.0,VfL Wolfsburg,6.73,1.79,Midfield,170,Left,26,Switzerland
+545,01-Jan-18,Lucas Höler,7.06,SV Sandhausen,6.57,SC Freiburg,6.65,2.03,Attack,184,Right,24,Germany
+546,01-Jan-18,Simon Terodde,6.48,VfB Stuttgart,6.65,FC Cologne,6.6,3.0,Attack,192,Right,30,Germany
+547,01-Jan-18,Anthony Ujah,5.9,Liaoning Whowin,0.0,Mainz,6.64,3.8,Attack,180,Both,27,Nigeria
+548,05-Jul-22,Brice Samba,6.72,Nottingham Forest,6.53,Lens,6.65,5.0,Goalkeeper,186,Right,28,Congo
+549,03-Jul-22,Giulian Biancone,7.05,Troyes,6.55,Nottingham Forest,6.53,10.0,Defence,187,Right,22,France
+550,12-Aug-21,Giulian Biancone,7.05,AS Monaco,6.75,Troyes,6.55,2.62,Defence,187,Right,21,France
+551,01-Jul-22,Sven Botman,7.08,Lille,6.73,Newcastle United,6.67,37.0,Defence,195,Left,22,Netherlands
+552,31-Jul-20,Sven Botman,7.08,Ajax Amsterdam,6.88,Lille,6.73,8.1,Defence,195,Left,20,Netherlands
+553,01-Jul-22,Adam Buksa,7.39,New England Revolution,6.7,Lens,6.65,6.4,Attack,191,Right,26,Poland
+554,01-Jul-22,Adrien Hunou,6.08,Minnesota United FC,6.7,Angers,6.61,1.5,Attack,179,Right,28,France
+555,23-Apr-21,Adrien Hunou,6.48,Stade Rennais,6.75,Minnesota United FC,6.7,3.43,Attack,179,Right,27,France
+556,01-Jul-22,Nuno Mendes,7.05,Sporting CP,6.79,Paris Saint-Germain,7.02,38.0,Defence,183,Left,20,Portugal
+557,01-Jul-22,Pietro Pellegri,6.2,AS Monaco,6.75,Torino,6.71,5.0,Attack,188,Right,21,Italy
+558,27-Jan-18,Pietro Pellegri,6.36,Genoa,6.57,AS Monaco,6.75,20.9,Attack,188,Right,17,Italy
+559,22-Jun-22,Johann Lepenant,7.12,Caen,6.62,Lyon,6.87,4.25,Midfield,178,Right,19,France
+560,10-Jun-22,Marcin Bulka,6.3,Paris Saint-Germain,7.02,Nice,6.72,2.0,Goalkeeper,199,Right,22,Poland
+561,31-Jan-22,Romain Faivre,7.44,Brest,6.66,Lyon,6.87,16.01,Midfield,185,Left,24,France
+562,30-Jun-20,Romain Faivre,5.26,AS Monaco,6.75,Brest,6.66,0.4,Midfield,185,Left,22,France
+563,31-Jan-22,Reinildo Mandava,7.14,Lille,6.73,Atletico Madrid,6.83,3.2,Defence,180,Left,28,Mozambique
+564,30-Jan-22,Bruno Guimarães,7.4,Lyon,6.87,Newcastle United,6.67,42.1,Midfield,182,Right,24,Brazil
+565,30-Jan-20,Bruno Guimarães,6.99,Athletico-PR,6.61,AS Monaco,6.75,20.0,Midfield,182,Right,22,Brazil
+566,01-Jan-22,Andreaw Gravillon,6.68,Internazionale,6.85,Stade de Reims,6.67,3.5,Defence,188,Right,24,Guadeloupe
+567,31-Aug-21,Yacine Adli,6.32,Bordeaux,6.64,AC Milan,6.8,8.0,Midfield,186,Right,20,France
+568,31-Jan-19,Yacine Adli,6.86,Paris Saint-Germain,7.02,Bordeaux,6.64,5.64,Midfield,186,Right,18,France
+569,31-Aug-21,Eduardo Camavinga,6.43,Stade Rennais,6.75,Real Madrid,6.94,32.45,Midfield,182,Left,18,France
+570,27-Aug-21,Pape Sarr,7.04,Metz,6.62,Tottenham Hotspur,6.86,16.9,Midfield,176,Right,18,Senegal
+571,14-Aug-21,Enzo Millot,6.23,AS Monaco,6.75,Eintracht Frankfurt,6.73,1.84,Midfield,175,Left,18,France
+572,10-Aug-21,Yoane Wissa,6.98,Lorient,6.53,Brentford,6.65,10.47,Attack,180,Right,24,Congo DR
+573,04-Aug-21,Myron Boadu,7.11,AZ Alkmaar,6.8,AS Monaco,6.75,17.79,Attack,180,Both,20,Netherlands
+574,28-Jul-21,Joachim Andersen,6.81,Lyon,6.87,Crystal Palace,6.72,17.5,Defence,190,Right,25,Denmark
+575,12-Jul-19,Joachim Andersen,6.3,Sampdoria,6.64,Lyon,6.87,24.0,Defence,190,Right,23,Denmark
+576,26-Jul-21,Mario Lemina,6.63,Southampton,6.66,Nice,6.72,5.5,Midfield,184,Right,27,Gabon
+577,16-Jul-21,Melvin Bard,6.67,Lyon,6.87,Nice,6.72,3.0,Defence,173,Left,20,France
+578,12-Jul-21,Mitchel Bakker,7.03,Paris Saint-Germain,7.02,Bayer Leverkusen,6.81,7.33,Defence,188,Left,21,Netherlands
+579,02-Jul-21,Boubakary Soumaré,6.52,Lille,6.73,Leicester City,6.78,20.0,Midfield,188,Right,22,France
+580,01-Jul-21,Benjamin Henrichs,6.58,AS Monaco,6.75,RB Leipzig,6.86,15.0,Defence,181,Both,24,Germany
+581,28-Aug-18,Benjamin Henrichs,6.48,Bayer Leverkusen,6.81,AS Monaco,6.75,20.34,Defence,181,Both,21,Germany
+582,01-Jul-21,Danilo Pereira,6.96,FC Porto,6.88,Paris Saint-Germain,7.02,16.0,Defence,188,Right,29,Portugal
+583,28-Jan-21,Marley Aké,6.13,Marseille,6.79,Juventus,6.89,8.0,Attack,177,Right,20,France
+584,26-Jan-21,Morgan Sanson,6.36,Marseille,6.79,Aston Villa,6.71,15.8,Midfield,180,Right,26,France
+585,21-Jan-21,Krépin Diatta,6.38,Club Brugge,0.0,AS Monaco,6.75,17.48,Midfield,173,Right,22,Senegal
+586,05-Oct-20,Bouna Sarr,6.89,Marseille,6.79,Bayern Munich,7.05,8.1,Midfield,177,Right,28,Senegal
+587,04-Oct-20,Ibrahima Diallo,6.55,Brest,6.66,Southampton,6.66,12.0,Midfield,180,Left,21,France
+588,02-Oct-20,Wesley Fofana,6.54,Saint-Etienne,6.64,Leicester City,6.78,35.0,Defence,190,Right,19,France
+589,30-Sep-20,Lucas Paquetá,6.33,AC Milan,6.8,Lyon,6.87,20.0,Attack,180,Left,22,Brazil
+590,25-Sep-20,Luis Henrique,6.7,Botafogo,0.0,Marseille,6.79,8.0,Attack,181,Right,18,Brazil
+591,24-Sep-20,Édouard Mendy,6.89,Stade Rennais,6.75,Chelsea,6.89,24.0,Goalkeeper,197,Right,28,Senegal
+592,19-Sep-20,Bertrand Traoré,6.79,Lyon,6.87,Aston Villa,6.71,18.62,Attack,181,Left,24,Burkina Faso
+593,18-Sep-20,Julian Pollersbeck,6.05,Hamburg SV,6.84,AS Monaco,6.75,0.25,Goalkeeper,195,Right,25,Germany
+594,17-Sep-20,Jordi Mboula,6.15,AS Monaco,6.75,Mallorca,6.5,1.72,Attack,182,Right,21,Spain
+595,11-Sep-20,Loïc Mbe Soh,6.63,Paris Saint-Germain,7.02,Nottingham Forest,6.53,5.06,Defence,185,Right,19,France
+596,10-Sep-20,Kenny Tete,6.76,Lyon,6.87,Fulham,6.59,3.24,Defence,180,Right,24,Netherlands
+597,05-Sep-20,Sergio Rico,6.23,Sevilla,6.74,Paris Saint-Germain,7.02,6.0,Goalkeeper,194,Right,26,Spain
+598,02-Sep-20,Kevin Volland,7.0,Bayer Leverkusen,6.81,AS Monaco,6.75,11.0,Attack,179,Left,27,Germany
+599,27-Aug-20,Caio Henrique,6.86,Atletico Madrid,6.83,AS Monaco,6.75,8.0,Midfield,179,Left,22,Brazil
+600,26-Aug-20,Jonathan Panzo,6.03,AS Monaco,6.75,Dijon FCO,6.6,3.44,Defence,185,Left,19,England
+601,11-Aug-20,Jonathan David,7.55,KAA Gent,6.69,Lille,6.73,30.0,Attack,180,Both,20,Canada
+602,07-Aug-20,Axel Disasi,6.71,Stade de Reims,6.67,AS Monaco,6.75,13.0,Defence,190,Right,22,France
+603,23-Jul-20,Illan Meslier,6.94,Lorient,6.53,Leeds United,6.65,6.5,Goalkeeper,196,Left,20,France
+604,09-Jul-20,Valon Berisha,5.74,Lazio,6.78,Stade de Reims,6.67,4.5,Midfield,176,Right,27,Kosovo
+605,06-Jul-20,Martin Terrier,6.61,Lyon,6.87,Stade Rennais,6.75,12.0,Attack,184,Right,23,France
+606,01-Jul-20,Karl Toko Ekambi,6.64,Villarreal,6.73,Lyon,6.87,11.5,Attack,185,Right,27,Cameroon
+607,08-Jun-18,Karl Toko Ekambi,6.67,Angers,6.61,Villarreal,6.73,18.0,Attack,185,Right,25,Cameroon
+608,01-Jul-20,Álvaro González,6.68,Villarreal,6.73,Marseille,6.79,4.0,Defence,182,Right,30,Spain
+609,01-Jul-20,Mauro Icardi,7.2,Internazionale,6.85,Paris Saint-Germain,7.02,50.0,Attack,181,Right,27,Argentina
+610,01-Jul-20,Anthony Musaba,6.45,NEC Nijmegen,6.81,AS Monaco,6.75,2.53,Attack,182,Right,19,Netherlands
+611,30-Jan-20,Jean Marcelin,6.84,AJ Auxerre,6.36,AS Monaco,6.75,10.0,Defence,197,Right,20,France
+612,29-Jan-20,Youssouf Fofana,6.73,Strasbourg,6.68,AS Monaco,6.75,15.0,Midfield,176,Right,21,France
+613,27-Jan-20,Lucas Tousart,6.76,Lyon,6.87,Hertha Berlin,6.65,25.0,Midfield,185,Right,23,France
+614,22-Jan-20,Tino Kadewere,6.53,Le Havre AC,0.0,Lyon,6.87,12.15,Attack,183,Right,24,Zimbabwe
+615,02-Sep-19,Keylor Navas,6.67,Real Madrid,6.94,Paris Saint-Germain,7.02,15.0,Goalkeeper,185,Right,32,Costa Rica
+616,23-Aug-19,Renato Sanches,6.41,Bayern Munich,7.05,Lille,6.73,20.52,Midfield,176,Right,21,Portugal
+617,14-Aug-19,Wissam Ben Yedder,7.16,Sevilla,6.74,AS Monaco,6.75,41.03,Attack,170,Right,28,France
+618,14-Aug-19,Rony Lopes,5.94,AS Monaco,6.75,Sevilla,6.74,25.64,Attack,174,Left,23,Portugal
+619,08-Aug-19,Emil Krafth,6.12,SC Amiens,6.59,Newcastle United,6.67,5.4,Defence,181,Right,24,Sweden
+620,07-Aug-19,Kevin Trapp,6.43,Paris Saint-Germain,7.02,Eintracht Frankfurt,6.73,7.0,Goalkeeper,189,Right,29,Germany
+621,02-Aug-19,Allan Saint-Maximin,7.18,Nice,6.72,Newcastle United,6.67,18.0,Attack,173,Right,22,France
+622,01-Aug-19,Rafael Leão,6.6,Lille,6.73,AC Milan,6.8,29.5,Attack,186,Right,20,Portugal
+623,01-Aug-19,Nicolas Pépé,6.92,Lille,6.73,Arsenal,6.76,80.0,Attack,183,Left,24,Ivory Coast
+624,30-Jul-19,Idrissa Gueye,7.48,Everton,6.69,Paris Saint-Germain,7.02,30.77,Midfield,174,Right,29,Senegal
+625,25-Jul-19,William Saliba,6.86,Saint-Etienne,6.64,Arsenal,6.76,30.77,Defence,193,Right,18,France
+626,23-Jul-19,Nabil Fekir,7.11,Lyon,6.87,Real Betis,6.68,19.75,Midfield,173,Left,25,France
+627,18-Jul-19,Christopher Nkunku,7.18,Paris Saint-Germain,7.02,RB Leipzig,6.86,13.33,Attack,175,Right,21,France
+628,11-Jul-19,Youssouf Koné,7.19,Lille,6.73,Lyon,6.87,9.0,Defence,174,Left,24,Mali
+629,08-Jul-19,Youri Tielemans,7.03,AS Monaco,6.75,Leicester City,6.78,45.0,Midfield,177,Both,22,Belgium
+630,03-Jul-19,Jules Koundé,6.68,Bordeaux,6.64,Sevilla,6.74,25.0,Defence,181,Right,20,France
+631,03-Jul-19,Thiago Mendes,7.33,Lille,6.73,Lyon,6.87,22.0,Defence,176,Right,27,Brazil
+632,03-Jul-19,Lucas Ocampos,7.09,Marseille,6.79,Sevilla,6.74,15.0,Midfield,187,Both,25,Argentina
+633,02-Jul-19,Pablo Sarabia,7.24,Sevilla,6.74,Paris Saint-Germain,7.02,18.0,Attack,181,Left,27,Spain
+634,01-Jul-19,Ferland Mendy,7.04,Lyon,6.87,Real Madrid,6.94,48.0,Defence,180,Left,24,France
+635,01-Jul-19,Moussa Diaby,6.89,Paris Saint-Germain,7.02,Bayer Leverkusen,6.81,15.0,Attack,170,Left,20,France
+636,01-Jul-19,Koffi Djidji,6.71,Nantes,6.68,Torino,6.71,3.0,Defence,184,Right,26,Ivory Coast
+637,01-Jul-19,Timothy Weah,6.22,Paris Saint-Germain,7.02,Lille,6.73,10.0,Attack,185,Right,19,United States
+638,11-Jun-19,Sehrou Guirassy,6.78,FC Cologne,6.6,SC Amiens,6.59,6.0,Attack,187,Right,23,Guinea
+639,31-Jan-19,Frédéric Guilbert,7.37,Caen,6.62,Aston Villa,6.71,5.13,Defence,177,Right,24,France
+640,31-Jan-19,Almamy Touré,7.08,AS Monaco,6.75,Eintracht Frankfurt,6.73,0.77,Defence,182,Right,23,Mali
+641,29-Jan-19,Leandro Paredes,7.1,Zenit St Petersburg,6.87,Paris Saint-Germain,7.02,40.0,Midfield,180,Right,25,Argentina
+642,11-Jan-19,Cesc Fàbregas,6.14,Chelsea,6.89,AS Monaco,6.75,9.23,Midfield,175,Right,32,Spain
+643,01-Jan-19,Mathías Suárez,6.52,Defensor Sporting,0.0,Montpellier,6.7,0.97,Defence,182,Right,23,Uruguay
+644,31-Aug-18,Juan Bernat,7.04,Bayern Munich,7.05,Paris Saint-Germain,7.02,5.09,Defence,170,Left,25,Spain
+645,28-Aug-18,Kevin Strootman,6.8,AS Roma,6.81,Marseille,6.79,25.0,Midfield,186,Left,28,Netherlands
+646,21-Aug-18,Jason Denayer,6.3,Manchester City,7.08,Lyon,6.87,6.5,Defence,184,Right,23,Belgium
+647,16-Aug-18,Rémy Cabella,7.4,Marseille,6.79,Saint-Etienne,6.64,6.1,Midfield,171,Right,28,France
+648,16-Aug-18,Thilo Kehrer,7.15,Schalke 04,6.64,Paris Saint-Germain,7.02,37.63,Defence,186,Right,21,Germany
+649,16-Aug-18,Gaëtan Laborde,6.26,Bordeaux,6.64,Montpellier,6.7,3.05,Attack,181,Left,24,France
+650,13-Aug-18,Myziane Maolida,6.43,Lyon,6.87,Nice,6.72,10.17,Attack,182,Left,19,France
+651,08-Aug-18,Kévin Malcuit,7.22,Lille,6.73,Napoli,6.83,12.0,Defence,184,Right,26,France
+652,06-Aug-18,Jérôme Roussillon,7.71,Montpellier,6.7,VfL Wolfsburg,6.73,5.09,Defence,181,Left,25,France
+653,27-Jul-18,Thomas Lemar,7.19,AS Monaco,6.75,Atletico Madrid,6.83,72.0,Midfield,170,Left,22,France
+654,26-Jul-18,Matz Sels,6.65,Newcastle United,6.67,Strasbourg,6.68,4.07,Goalkeeper,191,Right,26,Belgium
+655,24-Jul-18,Jean-Eudes Aholou,6.81,Strasbourg,6.68,AS Monaco,6.75,14.24,Midfield,186,Right,24,Ivory Coast
+656,24-Jul-18,Clément Grenier,7.26,Guingamp,6.63,Stade Rennais,6.75,4.07,Midfield,186,Right,27,France
+657,24-Jul-18,João Moutinho,7.22,AS Monaco,6.75,Wolverhampton Wanderers,6.74,5.6,Midfield,171,Right,31,Portugal
+658,17-Jul-18,Wahbi Khazri,6.98,Sunderland,6.65,Saint-Etienne,6.64,7.12,Attack,182,Right,27,Tunisia
+659,13-Jul-18,Alassane Pléa,7.15,Nice,6.72,Borussia Monchengladbach,6.75,23.39,Attack,181,Right,25,France
+660,10-Jul-18,Antonio Barreca,6.08,Torino,6.71,AS Monaco,6.75,10.17,Defence,184,Left,23,Italy
+661,02-Jul-18,Yuri Berchiche,7.34,Paris Saint-Germain,7.02,Athletic Club,0.0,24.0,Defence,181,Left,28,Spain
+662,02-Jul-18,Jonathan Ikoné,6.45,Paris Saint-Germain,7.02,Lille,6.73,5.0,Attack,175,Left,20,France
+663,02-Jul-18,Alban Lafont,6.29,Toulouse,6.6,Fiorentina,6.66,8.14,Goalkeeper,193,Right,19,France
+664,01-Jul-18,Jordan Amavi,7.07,Aston Villa,6.71,Marseille,6.79,10.0,Defence,176,Left,24,France
+665,01-Jul-18,Sergi Darder,6.46,Lyon,6.87,Espanyol,6.6,8.0,Midfield,180,Right,24,Spain
+666,01-Jul-18,Mouctar Diakhaby,6.54,Lyon,6.87,Valencia,6.69,15.0,Defence,189,Right,21,Guinea
+667,01-Jul-18,Tristan Dingomé,6.5,Troyes,6.55,Stade de Reims,6.67,1.0,Midfield,173,Left,27,France
+668,01-Jul-18,Christophe Hérelle,6.59,Troyes,6.55,Nice,6.72,5.0,Defence,188,Right,25,France
+669,01-Jul-18,Saidy Janko,6.68,Saint-Etienne,6.64,FC Porto,6.88,2.2,Defence,181,Right,22,Gambia
+670,01-Jul-18,Kylian Mbappé,7.56,AS Monaco,6.75,Paris Saint-Germain,7.02,180.0,Attack,178,Right,19,France
+671,01-Jul-18,Nordi Mukiele,7.29,Montpellier,6.7,RB Leipzig,6.86,16.27,Defence,185,Right,20,France
+672,26-Jun-18,Javier Pastore,7.12,Paris Saint-Germain,7.02,AS Roma,6.81,24.7,Midfield,187,Right,29,Argentina
+673,19-Jun-18,Willem Geubbels,6.28,Lyon,6.87,AS Monaco,6.75,20.0,Attack,185,Right,16,France
+674,19-Jun-18,Issa Diop,6.89,Toulouse,6.6,West Ham United,6.75,25.0,Defence,194,Right,21,France
+675,31-Jan-18,Lucas Moura,6.49,Paris Saint-Germain,7.02,Tottenham Hotspur,6.86,28.4,Attack,172,Right,25,Brazil
+676,25-Jan-18,Guido Carrillo,6.02,AS Monaco,6.75,Southampton,6.66,22.38,Attack,190,Right,27,Argentina
