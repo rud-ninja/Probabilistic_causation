@@ -20,32 +20,32 @@ Data fragments collected from ESPN, Transfermarkt and Soccerwiki and organized i
 
 ## Figures and tables
 Fig 1: Proposed DAG (drawn on dagitty)
-<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/dag.jpg" alt="drawing" width="200"/>
-![](https://github.com/rud-ninja/Probabilistic_causation/blob/main/dag.jpg)
+<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/dag.jpg" alt="drawing" width="800"/>
 
 
 
 Fig 2: Boxplot of the features from the dataset showing outliers
-![](https://github.com/rud-ninja/Probabilistic_causation/blob/main/boxplot.jpg)
+<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/boxplot.jpg" alt="drawing" width="800"/>
 
 
 
 
 Fig 3: A grid display of the correlation between football player performance and market value stratified by age group and team level.
-![](https://github.com/rud-ninja/Probabilistic_causation/blob/main/correlations.jpg)
+<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/correlations.jpg" alt="drawing" width="800"/>
 
 
 
 
 Fig 4: Posterior probability density curve of the variable age derived by Bayesian Inference technique (top) and distfit (bottom).
-![](https://github.com/rud-ninja/Probabilistic_causation/blob/main/posterior.jpg) ![](https://github.com/rud-ninja/Probabilistic_causation/blob/main/distfit.jpg)
+<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/posterior.jpg" alt="drawing" width="800"/>
+<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/distfit.jpg" alt="drawing" width="800"/>
 
 
 
 
 
 Fig 5: Final causal effects of players' performance on their market value.
-![](https://github.com/rud-ninja/Probabilistic_causation/blob/main/finalprob.jpg)
+<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/finalprob.jpg" alt="drawing" width="800"/>
 
 
 
