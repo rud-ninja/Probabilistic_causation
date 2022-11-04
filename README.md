@@ -34,7 +34,7 @@ Fig 2: Boxplot of the features from the dataset showing outliers
 
 Fig 3: A grid display of the correlation between football player performance and market value stratified by age group and team level.
 
-<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/correlations.jpg" alt="drawing" width="400"/>
+<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/correlations.jpg" alt="drawing" width="600"/>
 
 
 
