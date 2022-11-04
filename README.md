@@ -36,7 +36,7 @@ Fig 3: A grid display of the correlation between football player performance and
 
 
 
-Fig 4: Posterior probability density curve of the variable age derived by Bayesian Inference technique (top) and distfit (bottom).
+Fig 4: Posterior probability density curve of the variable age derived by Bayesian Inference technique (left) and distfit (right).
 <img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/posterior.jpg" alt="drawing" width="500"/>
 <img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/distfit.jpg" alt="drawing" width="400"/>
 
@@ -45,7 +45,7 @@ Fig 4: Posterior probability density curve of the variable age derived by Bayesi
 
 
 Fig 5: Final causal effects of players' performance on their market value.
-<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/finalprob.jpg" alt="drawing" width="800"/>
+<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/finalprob.jpg" alt="drawing" width="600"/>
 
 
 
