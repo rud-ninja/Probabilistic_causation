@@ -20,6 +20,7 @@ Data fragments collected from ESPN, Transfermarkt and Soccerwiki and organized i
 
 ## Figures and tables
 Fig 1: Proposed DAG (drawn on dagitty)
+<img src="https://github.com/rud-ninja/Probabilistic_causation/blob/main/dag.jpg" alt="drawing" width="200"/>
 ![](https://github.com/rud-ninja/Probabilistic_causation/blob/main/dag.jpg)
 
 
