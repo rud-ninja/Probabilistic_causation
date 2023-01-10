@@ -2,12 +2,12 @@
 
 
 ## Objectives:
-1. Analysis of causal relations using graph theory.
-2. Represent features of football transfer market using a Directed Acyclic Graph (DAG).
-3. Gather data from websites by webscraping.
-4. Organize and preprocess data.
-5. Perform probabilistic analyses using Bayesian probability.
-6. From the proposed DAG, find the total causal effect of one variable upon the result variable.
+1. Analysed causal relations using graph theory.
+2. Represented features of football transfer market using a Directed Acyclic Graph (DAG).
+3. Gathered data from websites by webscraping.
+4. Organised and preprocessed data.
+5. Performed probabilistic analyses using Bayesian probability.
+6. From the proposed DAG, found the total causal effect of one variable upon the result variable.
 
 
 #### Libraries used:
